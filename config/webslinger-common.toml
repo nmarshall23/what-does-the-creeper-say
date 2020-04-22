@@ -1,0 +1,27 @@
+
+#Debugging settings
+[Debugging]
+	#Enable general debug features, display extra debug info
+	debug = false
+
+#General settings
+[General]
+	#Chance per melee attack that a spider will create a web
+	#Range: 0.0 ~ 1.0
+	webMeleeChance = 0.15000000596046448
+	#Time variance between a spider's web slings
+	#Range: 0.0 ~ 1.7976931348623157E308
+	webSlingVariance = 2.0
+	#Time between web slings
+	#Range: > 0
+	webReshootTime = 45
+	#Inaccuracy of web slings
+	#Range: 0.0 ~ 1.7976931348623157E308
+	webSlingInaccuracy = 6.0
+	#Spiders can spit webbing from a distance
+	webSlinging = true
+	#Webbing hitting web creates more web
+	webbingOnWeb = false
+	#Webs replace water, lava, fire, snow, vines, etc. - any replaceable block
+	allowWebReplacement = true
+
