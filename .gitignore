@@ -1,0 +1,16 @@
+crash-reports/
+
+XaeroWorldMap/
+XaeroWaypoints/
+saves/
+mods/
+logs/
+
+usercache.json
+usernamecache.json
+patchouli_data.json
+
+# configs to ignore
+config/xaerominimap.txt
+config/xaeropatreon.txt
+config/xaeroworldmap.txt
