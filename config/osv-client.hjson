@@ -1,0 +1,18 @@
+{
+  blocks: {
+     # Attempts to generate any new ore sprites from the topmost resource
+     # pack. Not an ideal solution for many resource packs.
+    generateOverlaysFromResourcePack: false
+     # Indicates whether to enable shading in generated block models.
+    shadeOverlays: true
+     # Any model names listed here will be shaded or not, opposite of the
+     # global setting.
+    shadeOverrides: []
+     # Whether textures should use variable opacity to push and pull the
+     # background sprite.
+    enableShadedTextures: true
+     # Whether textures should be rendered with support for a full range
+     # of opacities. You may want to disable this if you're using shaders.
+    enableTransparency: true
+  }
+}

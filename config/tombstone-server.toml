@@ -69,7 +69,7 @@
 	#Scroll of Preservation [false/true|default:true]
 	allow_scroll_of_preservation = true
 	#Tablet of Recall [false/true|default:true]
-	allow_tablet_of_recall = true
+	allow_tablet_of_recall = false
 	#Scroll of Knowledge [false/true|default:true]
 	allow_scroll_of_knowledge = true
 	#Tablet of Assistance [false/true|default:true]
@@ -79,9 +79,9 @@
 	#Scroll of True Sight [false/true|default:true]
 	allow_scroll_of_true_sight = true
 	#Lost Tablet [false/true|default:true]
-	allow_lost_tablet = true
+	allow_lost_tablet = false
 	#Tablet of Home [false/true|default:true]
-	allow_tablet_of_home = true
+	allow_tablet_of_home = false
 
 #Allows to change the chance to drop some items
 [loot]
