@@ -1,0 +1,8 @@
+{
+	"name": "A Preface",
+	"icon": "minecraft:writable_book",
+	"category": "intro",
+	"priority": true,
+	"read_by_default": false,
+  "pages": []
+}
