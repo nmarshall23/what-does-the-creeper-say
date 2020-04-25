@@ -1,7 +1,12 @@
-# What Does the  Creeper Say
+# What Does the Creeper Say
 
 Explore, Build a Town, Just don't talk to Creepers
 
-A Pack forcusoing on Using MineColonies and The Mighty Architect to build a Town. A seleciton of decorative blocked were added to make your town look amazing. 
+A casual building and exploring pack.
 
-Mods to add 
+
+
+Build a town using MineColonies and The Mighty Architect. 
+
+If you need an adventure explore the mysteries of Future Pack. 
+
