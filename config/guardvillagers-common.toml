@@ -11,5 +11,5 @@
 #This option makes guards run from ravagers when low on health
 "Make Guards Run From Ravagers When Low On Health?" = true
 #This makes the guard villagers have a slow natural health regeneration.
-"Have Natural Health Regen For The Guards? " = false
+"Have Natural Health Regen For The Guards? " = true
 

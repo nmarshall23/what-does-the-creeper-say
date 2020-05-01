@@ -13,7 +13,7 @@
 	#Set to true if you want the dimensionBlacklist to be treated as a whitelist instead. Options triggerInOverworld etc. still take priority.
 	dimensionBlacklistIsWhitelist = false
 	#Prevent death on void fall (limits damage to leave at least 0.5 hearts)
-	preventDeath = false
+	preventDeath = true
 	#The amount of damage applied to the player when they land.
 	#Range: > 0
 	damageOnFall = 10

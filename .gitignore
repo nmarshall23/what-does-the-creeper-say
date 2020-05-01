@@ -5,6 +5,10 @@ XaeroWaypoints/
 saves/
 mods/
 logs/
+temp/
+ct_dumps/
+natives/
+screenshots/
 
 usercache.json
 usernamecache.json
@@ -39,3 +43,4 @@ config/bettersprinting-client.toml
 config/defaultworldtype/world-types.txt
 config/osv/resources.zip
 config/defaultworldtype/world-types.txt
+config/druidcraft-client.toml
