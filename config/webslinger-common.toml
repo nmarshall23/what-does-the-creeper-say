@@ -21,7 +21,7 @@
 	#Spiders can spit webbing from a distance
 	webSlinging = true
 	#Webbing hitting web creates more web
-	webbingOnWeb = false
+	webbingOnWeb = true
 	#Webs replace water, lava, fire, snow, vines, etc. - any replaceable block
 	allowWebReplacement = true
 

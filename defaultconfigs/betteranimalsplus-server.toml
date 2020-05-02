@@ -1,0 +1,527 @@
+
+[brownbear]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[blackbear]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 6
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[deer]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 16
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:christmas_island", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[lammergeier]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 2
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:forested_cliffs", "minecraft:tall_birch_forest", "wildnature:olive_hills", "wildnature:tatra_mountains", "minecraft:shattered_savanna", "futurepack:tyros_mountain", "wildnature:shrublands", "minecraft:jungle_hills", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:modified_jungle", "minecraft:taiga_mountains", "minecraft:snowy_mountains", "wildnature:sahara", "wildnature:tropical_badlands", "minecraft:modified_jungle_edge", "minecraft:desert_hills", "wildnature:tuchola_forest_hill", "minecraft:modified_gravelly_mountains", "minecraft:gravelly_mountains", "wildnature:snowy_tatra_foothills", "wildnature:hilly_shrublands", "minecraft:flower_forest", "wildnature:glacier", "minecraft:ice_spikes", "minecraft:tall_birch_hills", "minecraft:shattered_savanna_plateau", "minecraft:mountain_edge", "minecraft:snowy_taiga_mountains", "minecraft:mountains", "futurepack:menelaus", "minecraft:modified_badlands_plateau", "minecraft:snowy_taiga_hills", "wildnature:mahogany_cliffs", "wildnature:tatra_foothills", "minecraft:dark_forest_hills", "wildnature:snowy_mountains", "wildnature:snowy_tuchola_forest_hill", "minecraft:modified_wooded_badlands_plateau", "wildnature:daintree_forest", "wildnature:olive_grove", "wildnature:tinted_desert_hills", "wildnature:rocky_taiga", "futurepack:menelaus_platau", "wildnature:overgrown_cliffs", "atmospheric:rosewood_mountains", "wildnature:high_forest_hills", "minecraft:swamp_hills", "wildnature:rysy", "minecraft:birch_forest_hills", "wildnature:snowy_tatra_mountains", "minecraft:wooded_hills", "wildnature:highlands", "wildnature:himalayas", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "minecraft:eroded_badlands"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+	#List of acceptable item IDs to use for taming. Accepts tags by prefixing them with '#'.
+	tameItems = ["minecraft:bone"]
+
+[feralwolf]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 6
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:christmas_island", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+	#List of acceptable item IDs to use for taming. Accepts tags by prefixing them with '#'.
+	tameItems = ["minecraft:bone"]
+
+[coyote]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 5
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 6
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:wetlands", "minecraft:savanna_plateau", "wildnature:easter_island", "wildnature:flower_field", "minecraft:desert", "wildnature:shrublands", "futurepack:menelaus_flat", "wildnature:tinted_desert", "minecraft:plains", "wildnature:polders", "minecraft:badlands_plateau", "wildnature:christmas_dream", "wildnature:orchard", "wildnature:prehistoric_valley", "wildnature:prairie", "wildnature:sahara", "minecraft:sunflower_plains", "minecraft:desert_hills", "wildnature:hilly_shrublands", "minecraft:desert_lakes", "wildnature:cotton_fields", "wildnature:grasslands", "wildnature:cherry_paradise", "futurepack:menelaus_sea", "wildnature:masuria", "minecraft:badlands", "futurepack:menelaus", "minecraft:savanna", "wildnature:lush_desert", "wildnature:nile_river", "naturaldecormod:shrubland", "wildnature:golden_woods", "wildnature:cracked_desert", "wildnature:badlands", "wildnature:autumnal_spruce", "atmospheric:rosewood_forest_plateau", "wildnature:tinted_desert_hills", "wildnature:farmlands", "futurepack:menelaus_platau", "wildnature:lavender_garden", "wildnature:corn_field", "wildnature:madagascar_valley", "wildnature:forested_grasslands", "wildnature:citrus_orchard", "minecraft:wooded_badlands_plateau", "wildnature:highlands", "wildnature:steppe", "wildnature:land_of_rivers", "atmospheric:rosewood_plateau", "wildnature:rapeseed_field"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+	#Makes coyote always hostile (removes ability to tame!)
+	coyoteHostileDaytime = false
+	#List of acceptable item IDs to use for taming. Accepts tags by prefixing them with '#'.
+	tameItems = ["minecraft:rabbit", "minecraft:chicken", "betteranimalsplus:pheasantraw", "minecraft:cooked_rabbit", "minecraft:cooked_chicken", "betteranimalsplus:pheasantcooked"]
+
+[tarantula]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 40
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:badlands", "futurepack:menelaus", "wildnature:sahara", "minecraft:desert", "minecraft:desert_hills", "wildnature:lush_desert", "wildnature:nile_river", "minecraft:desert_lakes", "futurepack:menelaus_flat", "wildnature:cracked_desert", "wildnature:tinted_desert", "wildnature:badlands", "minecraft:wooded_badlands_plateau", "minecraft:badlands_plateau", "futurepack:menelaus_sea", "wildnature:tinted_desert_hills", "futurepack:menelaus_platau"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[hirschgeist]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 2
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[goat]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 9
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "minecraft:shattered_savanna", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "minecraft:jungle_hills", "minecraft:plains", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "minecraft:snowy_mountains", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:tuchola_forest_hill", "minecraft:modified_gravelly_mountains", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:glacier", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:masuria", "wildnature:snowy_aspen_grove", "minecraft:snowy_taiga_mountains", "futurepack:menelaus", "endergetic:poise_forest", "minecraft:savanna", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "minecraft:modified_wooded_badlands_plateau", "wildnature:autumnal_spruce", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "wildnature:safari_hills", "wildnature:overgrown_cliffs", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:madagascar_valley", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:steppe", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "wildnature:himalayas", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:wetlands", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "minecraft:savanna_plateau", "wildnature:flower_field", "futurepack:tyros_mountain", "wildnature:shrublands", "futurepack:menelaus_flat", "minecraft:jungle_edge", "wildnature:polders", "wildnature:safari", "wildnature:christmas_dream", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "minecraft:modified_jungle", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:tropical_badlands", "minecraft:sunflower_plains", "wildnature:old_redwood_forest", "minecraft:modified_jungle_edge", "minecraft:desert_hills", "wildnature:beech_hills", "minecraft:gravelly_mountains", "wildnature:beech_valley", "wildnature:snowy_tatra_foothills", "wildnature:hilly_shrublands", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "wildnature:cotton_fields", "minecraft:ice_spikes", "minecraft:tall_birch_hills", "minecraft:shattered_savanna_plateau", "minecraft:giant_spruce_taiga", "minecraft:mountain_edge", "wildnature:rainforest", "minecraft:mountains", "minecraft:modified_badlands_plateau", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "naturaldecormod:shrubland", "wildnature:mahogany_cliffs", "wildnature:tatra_foothills", "minecraft:dark_forest_hills", "wildnature:golden_woods", "wildnature:snowy_mountains", "wildnature:snowy_tuchola_forest_hill", "atmospheric:rosewood_forest_plateau", "wildnature:daintree_forest", "wildnature:prairie_hills", "wildnature:baobab_savanna", "wildnature:high_forest", "wildnature:tinted_desert_hills", "wildnature:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "minecraft:forest", "futurepack:menelaus_platau", "wildnature:high_forest_hills", "minecraft:swamp_hills", "wildnature:rysy", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:dead_desolation", "wildnature:forested_grasslands", "wildnature:highlands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "minecraft:eroded_badlands", "wildnature:rapeseed_field", "wildnature:poplar_forest", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+	#Enabling this will cause goats to give out vanilla milk instead of goat milk.
+	goatVanillaMilk = false
+
+[jellyfish]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 10
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:deep_cold_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_warm_ocean", "minecraft:warm_ocean", "minecraft:ocean", "wildnature:morskie_oko", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[pheasant]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 12
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "minecraft:shattered_savanna", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:plains", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:savanna", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "wildnature:autumnal_spruce", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "wildnature:safari_hills", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "wildnature:madagascar_valley", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:steppe", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:wetlands", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "minecraft:savanna_plateau", "wildnature:flower_field", "wildnature:shrublands", "futurepack:menelaus_flat", "minecraft:jungle_edge", "wildnature:polders", "wildnature:safari", "wildnature:christmas_dream", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "minecraft:sunflower_plains", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:hilly_shrublands", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "wildnature:cotton_fields", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "minecraft:shattered_savanna_plateau", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "naturaldecormod:shrubland", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:baobab_savanna", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "wildnature:dead_desolation", "wildnature:highlands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[reindeer]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 10
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:snowy_aspen_grove", "minecraft:frozen_river", "minecraft:snowy_mountains", "minecraft:snowy_taiga_mountains", "wildnature:snowy_giant_coniferous_forest", "minecraft:snowy_taiga_hills", "minecraft:snowy_taiga", "wildnature:frozen_lake", "wildnature:snowy_cedar_fields", "minecraft:snowy_tundra", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_mountains", "wildnature:snowy_tatra_mountains", "wildnature:snowy_tuchola_forest", "wildnature:autumnal_spruce", "minecraft:ice_spikes", "wildnature:christmas_dream", "wildnature:frozen_river", "wildnature:snowy_forest", "wildnature:himalayas", "wildnature:snowy_boreal_forest", "wildnature:snowy_birch_grove", "wildnature:christmas_island", "minecraft:snowy_beach"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[boar]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 9
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "minecraft:shattered_savanna", "wildnature:snowy_dense_tuchola_forest", "minecraft:jungle_hills", "wildnature:daintree_plateau", "wildnature:snowy_tuchola_forest", "minecraft:plains", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:savanna", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "wildnature:autumnal_spruce", "minecraft:birch_forest", "minecraft:bamboo_jungle", "wildnature:olive_grove", "wildnature:orchard_plum", "wildnature:safari_hills", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "wildnature:madagascar_valley", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:steppe", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:wetlands", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "minecraft:jungle", "minecraft:savanna_plateau", "wildnature:flower_field", "wildnature:tropical_cliffs", "wildnature:tropical_lake", "futurepack:tyros_mountain", "wildnature:shrublands", "futurepack:menelaus_flat", "minecraft:jungle_edge", "wildnature:polders", "wildnature:amazon_river", "wildnature:safari", "wildnature:christmas_dream", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "minecraft:modified_jungle", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "minecraft:sunflower_plains", "minecraft:modified_jungle_edge", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:hilly_shrublands", "futurepack:tyros", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "wildnature:cotton_fields", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "minecraft:shattered_savanna_plateau", "wildnature:oasis", "wildnature:rainforest", "futurepack:tyros_swamp", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "naturaldecormod:shrubland", "wildnature:mahogany_cliffs", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:baobab_savanna", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "wildnature:dead_desolation", "wildnature:highlands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest", "minecraft:bamboo_jungle_hills"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[squirrel]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 8
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[songbird]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 11
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:plains", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:savanna", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "wildnature:autumnal_spruce", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "wildnature:madagascar_valley", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:steppe", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:wetlands", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "minecraft:savanna_plateau", "wildnature:flower_field", "wildnature:shrublands", "futurepack:menelaus_flat", "minecraft:jungle_edge", "wildnature:polders", "wildnature:christmas_dream", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "minecraft:sunflower_plains", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:hilly_shrublands", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "wildnature:cotton_fields", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "naturaldecormod:shrubland", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "wildnature:highlands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[badger]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 2
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "minecraft:shattered_savanna", "wildnature:snowy_dense_tuchola_forest", "wildnature:snowy_tuchola_forest", "minecraft:plains", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "minecraft:savanna", "minecraft:snowy_taiga", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "wildnature:autumnal_spruce", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "wildnature:safari_hills", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "wildnature:madagascar_valley", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "wildnature:steppe", "wildnature:snowy_forest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:wetlands", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "minecraft:savanna_plateau", "wildnature:flower_field", "wildnature:shrublands", "futurepack:menelaus_flat", "minecraft:jungle_edge", "wildnature:polders", "wildnature:safari", "wildnature:christmas_dream", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "minecraft:sunflower_plains", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:hilly_shrublands", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "wildnature:cotton_fields", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "minecraft:shattered_savanna_plateau", "wildnature:rainforest", "wildnature:madagascar", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "naturaldecormod:shrubland", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:baobab_savanna", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "wildnature:dead_desolation", "wildnature:highlands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[lamprey]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:bialowieza_marsh", "minecraft:frozen_river", "futurepack:tyros_swamp", "minecraft:river", "wildnature:cold_lake", "minecraft:swamp_hills", "wildnature:warm_lake", "wildnature:tropical_lake", "wildnature:frozen_lake", "wildnature:nile_river", "wildnature:bialowieza_frozen_marsh", "minecraft:swamp", "wildnature:amazon_river", "wildnature:bog", "wildnature:frozen_river", "wildnature:mangrove_bayou", "wildnature:river", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[nautilus]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 4
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:deep_cold_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_warm_ocean", "minecraft:warm_ocean", "minecraft:ocean", "wildnature:morskie_oko", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[crab]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 10
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:bialowieza_marsh", "futurepack:tyros_swamp", "minecraft:mushroom_field_shore", "minecraft:swamp_hills", "wildnature:white_beach", "wildnature:bialowieza_frozen_marsh", "minecraft:swamp", "minecraft:stone_shore", "wildnature:bog", "futurepack:menelaus_sea", "wildnature:mangrove_bayou", "minecraft:beach", "minecraft:snowy_beach"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[horseshoecrab]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 8
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:stone_shore", "minecraft:mushroom_field_shore", "futurepack:menelaus_sea", "wildnature:white_beach", "minecraft:beach", "minecraft:snowy_beach"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[shark]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 4
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:deep_cold_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_warm_ocean", "minecraft:warm_ocean", "minecraft:ocean", "wildnature:morskie_oko", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[moose]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 8
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:swamp", "wildnature:bialowieza_marsh", "futurepack:tyros_swamp", "minecraft:giant_spruce_taiga_hills", "wildnature:bog", "minecraft:swamp_hills", "minecraft:giant_tree_taiga", "minecraft:giant_spruce_taiga", "minecraft:giant_tree_taiga_hills", "wildnature:bialowieza_frozen_marsh", "wildnature:mangrove_bayou"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[turkey]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 11
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:oak_valley", "wildnature:forested_grasslands_hills", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:outback", "wildnature:oaklands", "minecraft:flower_forest", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:masuria", "endergetic:poise_forest", "wildnature:lush_desert", "wildnature:cracked_desert", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:salt_flats", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "wildnature:mahogany_rainforest", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "wildnature:cedar_fields", "wildnature:banana_thicket", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "wildnature:beech_hills", "wildnature:beech_valley", "wildnature:deciduous_forest", "wildnature:dark_mirkwood", "wildnature:birch_grove", "minecraft:tall_birch_hills", "minecraft:giant_spruce_taiga", "wildnature:rainforest", "wildnature:madagascar", "wildnature:tuchola_forest", "wildnature:maple_forest", "minecraft:dark_forest_hills", "wildnature:golden_woods", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "wildnature:boreal_forest", "wildnature:dense_tuchola_forest", "wildnature:lavender_garden", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "wildnature:poplar_forest", "wildnature:rapeseed_field"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[zotzpyre]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 30
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:easter_island", "wildnature:forested_grasslands_hills", "wildnature:oak_valley", "wildnature:olive_hills", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:snowy_cedar_fields", "wildnature:bialowieza_forest", "wildnature:eucalyptus_forest", "minecraft:shattered_savanna", "wildnature:snowy_dense_tuchola_forest", "minecraft:jungle_hills", "wildnature:daintree_plateau", "minecraft:stone_shore", "wildnature:snowy_tuchola_forest", "minecraft:taiga_hills", "minecraft:giant_spruce_taiga_hills", "minecraft:dark_forest", "wildnature:poplar_forest_valley", "wildnature:mirkwood", "minecraft:taiga_mountains", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "minecraft:snowy_mountains", "wildnature:wooded_outback", "futurepack:tyros_palirie_forest", "wildnature:tuchola_forest_hill", "minecraft:modified_gravelly_mountains", "wildnature:outback", "wildnature:oaklands", "wildnature:bialowieza_frozen_marsh", "minecraft:flower_forest", "wildnature:glacier", "wildnature:grasslands", "wildnature:dense_oaklands", "wildnature:cherry_paradise", "wildnature:autumnal_maple_forest", "wildnature:mangrove_bayou", "wildnature:snowy_aspen_grove", "wildnature:masuria", "wildnature:bialowieza_marsh", "minecraft:snowy_taiga_mountains", "endergetic:poise_forest", "futurepack:menelaus", "minecraft:mushroom_field_shore", "minecraft:snowy_taiga", "wildnature:lush_desert", "atmospheric:rocky_dunes", "wildnature:cracked_desert", "wildnature:rainforest_hills", "minecraft:modified_wooded_badlands_plateau", "autumnity:maple_forest", "wildnature:autumnal_spruce", "minecraft:birch_forest", "minecraft:bamboo_jungle", "wildnature:olive_grove", "wildnature:orchard_plum", "atmospheric:rosewood_mountains", "wildnature:overgrown_cliffs", "wildnature:salt_flats", "wildnature:snowy_giant_coniferous_forest", "druidcraft:darkwood_forest", "wildnature:white_beach", "wildnature:weeping_birch_forest", "wildnature:oakland_hills", "wildnature:corn_field", "wildnature:snowy_tatra_mountains", "wildnature:giant_coniferous_forest", "wildnature:snowy_bialowieza_forest", "minecraft:wooded_hills", "wildnature:citrus_orchard", "wildnature:bog", "futurepack:envia", "wildnature:mahogany_rainforest", "wildnature:steppe", "wildnature:snowy_forest", "wildnature:himalayas", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_mountains", "atmospheric:rosewood_plateau", "minecraft:beach", "atmospheric:rosewood_forest", "wildnature:forested_cliffs", "wildnature:seasonal_taiga", "minecraft:tall_birch_forest", "wildnature:aspen_grove", "minecraft:jungle", "wildnature:flower_field", "wildnature:tropical_cliffs", "wildnature:tropical_lake", "futurepack:tyros_mountain", "wildnature:shrublands", "minecraft:jungle_edge", "wildnature:polders", "wildnature:amazon_river", "wildnature:christmas_dream", "minecraft:giant_tree_taiga", "wildnature:tropical_island", "wildnature:orchard", "minecraft:modified_jungle", "wildnature:cedar_fields", "wildnature:banana_thicket", "minecraft:snowy_beach", "wildnature:prairie", "wildnature:redwood_forest", "wildnature:sahara", "atmospheric:flourishing_dunes", "wildnature:old_redwood_forest", "wildnature:tropical_badlands", "minecraft:modified_jungle_edge", "wildnature:beech_hills", "minecraft:desert_hills", "minecraft:gravelly_mountains", "wildnature:beech_valley", "wildnature:snowy_tatra_foothills", "wildnature:hilly_shrublands", "futurepack:tyros", "wildnature:dark_mirkwood", "wildnature:deciduous_forest", "wildnature:birch_grove", "minecraft:swamp", "atmospheric:petrified_dunes", "minecraft:ice_spikes", "minecraft:tall_birch_hills", "futurepack:menelaus_sea", "minecraft:giant_spruce_taiga", "minecraft:shattered_savanna_plateau", "wildnature:oasis", "minecraft:mountain_edge", "wildnature:rainforest", "futurepack:tyros_swamp", "minecraft:mountains", "wildnature:madagascar", "minecraft:modified_badlands_plateau", "minecraft:snowy_taiga_hills", "wildnature:tuchola_forest", "wildnature:maple_forest", "wildnature:mahogany_cliffs", "minecraft:dark_forest_hills", "wildnature:golden_woods", "wildnature:tatra_foothills", "wildnature:snowy_mountains", "wildnature:snowy_tuchola_forest_hill", "atmospheric:rosewood_forest_plateau", "wildnature:prairie_hills", "wildnature:daintree_forest", "wildnature:high_forest", "wildnature:forest", "wildnature:tinted_desert_hills", "minecraft:forest", "wildnature:rocky_taiga", "wildnature:farmlands", "futurepack:menelaus_platau", "wildnature:high_forest_hills", "minecraft:swamp_hills", "wildnature:rysy", "wildnature:boreal_forest", "minecraft:snowy_tundra", "wildnature:lavender_garden", "wildnature:dense_tuchola_forest", "minecraft:birch_forest_hills", "wildnature:forested_grasslands", "atmospheric:dunes", "wildnature:highlands", "minecraft:taiga", "wildnature:beech_forest", "wildnature:land_of_rivers", "minecraft:eroded_badlands", "wildnature:poplar_forest", "wildnature:rapeseed_field", "wildnature:snowy_birch_grove", "wildnature:snowy_boreal_forest", "minecraft:bamboo_jungle_hills"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[bobbit_worm]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 2
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:deep_cold_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_warm_ocean", "minecraft:warm_ocean", "minecraft:ocean", "wildnature:morskie_oko", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[goose]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 15
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 2
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 5
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:poplar_forest_hills", "wildnature:oak_valley", "wildnature:forested_grasslands_hills", "wildnature:olive_hills", "wildnature:tropical_lake", "wildnature:forest_valley", "wildnature:tatra_mountains", "wildnature:shrublands", "wildnature:polders", "wildnature:amazon_river", "wildnature:frozen_river", "wildnature:poplar_forest_valley", "wildnature:orchard", "wildnature:prehistoric_valley", "wildnature:grasslands_hills", "minecraft:river", "wildnature:tropical_badlands", "wildnature:cold_lake", "futurepack:tyros_palirie_forest", "wildnature:beech_hills", "wildnature:beech_valley", "minecraft:flower_forest", "wildnature:dark_mirkwood", "wildnature:grasslands", "wildnature:cherry_paradise", "wildnature:mangrove_bayou", "wildnature:river", "wildnature:rainforest_moor", "wildnature:dried_lake", "wildnature:rainforest", "wildnature:masuria", "minecraft:frozen_river", "endergetic:poise_forest", "wildnature:warm_lake", "wildnature:nile_river", "wildnature:golden_woods", "wildnature:rainforest_hills", "autumnity:maple_forest", "minecraft:birch_forest", "wildnature:prairie_hills", "wildnature:orchard_plum", "minecraft:forest", "wildnature:farmlands", "wildnature:frozen_lake", "wildnature:lavender_garden", "wildnature:oakland_hills", "minecraft:birch_forest_hills", "wildnature:snowy_tatra_mountains", "wildnature:forested_grasslands", "minecraft:wooded_hills", "wildnature:mahogany_rainforest", "wildnature:land_of_rivers"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+	#List of blacklisted item IDs that cannot be picked up. Accepts tags by prefixing them with '#'.
+	pickup_blacklist = ["betteranimalsplus:goose_egg", "betteranimalsplus:golden_goose_egg"]
+
+[eel_freshwater]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 2
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["wildnature:bialowieza_marsh", "minecraft:frozen_river", "futurepack:tyros_swamp", "minecraft:river", "wildnature:cold_lake", "minecraft:swamp_hills", "wildnature:warm_lake", "wildnature:tropical_lake", "wildnature:frozen_lake", "wildnature:nile_river", "wildnature:bialowieza_frozen_marsh", "minecraft:swamp", "wildnature:amazon_river", "wildnature:bog", "wildnature:frozen_river", "wildnature:mangrove_bayou", "wildnature:river", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[eel_saltwater]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 4
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 2
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:lukewarm_ocean", "minecraft:warm_ocean", "minecraft:ocean", "wildnature:morskie_oko", "minecraft:deep_warm_ocean", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[whale]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 2
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:deep_cold_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_warm_ocean", "minecraft:warm_ocean", "minecraft:ocean", "wildnature:morskie_oko", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "wildnature:rainforest_moor", "wildnature:dried_lake"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = true
+
+[walrus]
+	#Disables natural spawning
+	doSpawning = true
+	#The spawn chance compared to other entities (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 4
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 5
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:stone_shore", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean", "minecraft:snowy_beach"]
+	#True if this entity can despawn freely when no players are nearby.
+	doDespawn = false
+
+[misc]
+	#Setting to true enables biome based variant spawning. This will make some entities choose variants based on the biome they spawn in. (No longer affects spawn eggs as it did in the past, only natural spawns)
+	biomeBasedVariants = true
+

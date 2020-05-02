@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["1s1", "1 1", "1 1"],
+  "key": {
+    "s": {
+      "tag": "forge:string"
+    },
+    "1": {
+      "item": "wildnature:river_cane"
+    }
+  },
+  "result": {
+    "item": "minecraft:scaffolding",
+    "count": 4
+  }
+}

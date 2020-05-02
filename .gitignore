@@ -9,6 +9,7 @@ temp/
 ct_dumps/
 natives/
 screenshots/
+backups/
 
 usercache.json
 usernamecache.json
@@ -44,3 +45,5 @@ config/defaultworldtype/world-types.txt
 config/osv/resources.zip
 config/defaultworldtype/world-types.txt
 config/druidcraft-client.toml
+config/caelus-client.toml
+config/caelus-client.toml

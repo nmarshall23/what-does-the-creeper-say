@@ -144,11 +144,7 @@
 					"name": "pamhc2crops:cucumberseeditem",
 					"weight": 1
 				},
-				{
-					"type": "item",
-					"name": "pamhc2crops:eggplantseeditem",
-					"weight": 1
-				},
+				
 				{
 					"type": "item",
 					"name": "pamhc2crops:elderberryseeditem",
@@ -190,21 +186,13 @@
 					"name": "pamhc2crops:juniperberryseeditem",
 					"weight": 1
 				},
-				{
-					"type": "item",
-					"name": "pamhc2crops:juteseeditem",
-					"weight": 1
-				},
+			
 				{
 					"type": "item",
 					"name": "pamhc2crops:kaleseeditem",
 					"weight": 1
 				},
-				{
-					"type": "item",
-					"name": "pamhc2crops:kenafseeditem",
-					"weight": 1
-				},
+				
 				{
 					"type": "item",
 					"name": "pamhc2crops:kiwiseeditem",
@@ -325,11 +313,7 @@
 					"name": "pamhc2crops:sesameseedsseeditem",
 					"weight": 1
 				},
-				{
-					"type": "item",
-					"name": "pamhc2crops:sisalseeditem",
-					"weight": 1
-				},
+			
 				{
 					"type": "item",
 					"name": "pamhc2crops:soybeanseeditem",

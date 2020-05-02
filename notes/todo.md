@@ -2,10 +2,18 @@
 
 Why doesn't the Composter show up in JEI?
 
-No Option to disable baby zombies
+make less costly, Photometer
 
-Disable: <item:storagenetwork:inventory_remote>
+Remove <item:embellishcraft:flatter_hammer>. Metal Plates are made with create
+
+make more costly to craft <item:embellishcraft:oak_wooden_crate>.
+
+remove <item:wildnature:steel_ingot>, will be using  <item:embellishcraft:steel_ingot>
 
 ## Finished
 
-Removed Flax from Pam's drops.
+disable baby zombies
+
+Remove string plants from Pam's drops.
+
+Disable: <item:storagenetwork:inventory_remote>
