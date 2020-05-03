@@ -1,12 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["1s1", "1 1", "1 1"],
+  "pattern": ["prp", "p p", "p p"],
   "key": {
-    "s": {
-      "tag": "forge:string"
+    "p": {
+      "tag": "forge:planks/wooden"
     },
-    "1": {
-      "item": "wildnature:river_cane"
+    "r": {
+      "item": "item:druidcraft:rope"
     }
   },
   "result": {

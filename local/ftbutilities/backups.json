@@ -5,5 +5,12 @@
 		"index": 1,
 		"success": true,
 		"size": 104727432
+	},
+	{
+		"time": 1588507104001,
+		"file": "2020-05-03-07-58-24.zip",
+		"index": 2,
+		"success": true,
+		"size": 136938526
 	}
 ]

@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+    	{
+    		"tag": "forge:ingots/steel"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "embellishcraft:steel_plate",
+			"count": 1
+		}
+	]
+}

@@ -1,4 +1,4 @@
-9 possible world types found:
+8 possible world types found:
 - default
 - flat
 - largeBiomes
@@ -6,5 +6,4 @@
 - customized
 - buffet
 - debug_all_block_states
-- wildnature
 - default_1_1

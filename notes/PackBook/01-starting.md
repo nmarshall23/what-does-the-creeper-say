@@ -17,13 +17,15 @@ Additional storage for the early game. Access by pressing `X`
 
 Sleep without setting a spawn point.
 
+
+
+## Mine up Iron
+
 **Crates**
 
+Charm Mod Adds Creates
 
-
-## Midgame Items
-
-Photometer
+**Photometer**
 
 
 
@@ -32,6 +34,12 @@ Photometer
 quark:feeding_trough
 
 incubation:chicken_nest
+
+
+
+## Mechanial 
+
+embellishcraft has bigger Crates those will require presigion bolts
 
 ## After visting the End City
 
