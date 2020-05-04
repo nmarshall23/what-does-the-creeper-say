@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+		  {
+    		"tag": "forge:nuggets/steel"
+      },
+		  {
+    		"tag": "forge:nuggets/steel"
+    	}
+    ], 
+	"results": [
+		{
+      "item": "embellishcraft:bolt",
+			"count": 1
+		}
+	]
+}
