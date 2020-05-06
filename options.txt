@@ -97,7 +97,7 @@ key_Tool Menu (Hold):key.keyboard.left.alt
 key_key.waila.config:key.keyboard.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.backpack:key.keyboard.x:SHIFT
+key_key.backpack:key.keyboard.x
 key_quark.keybind.lock_rotation:key.keyboard.unknown
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown

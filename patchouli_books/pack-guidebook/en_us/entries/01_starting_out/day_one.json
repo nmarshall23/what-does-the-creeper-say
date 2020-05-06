@@ -1,0 +1,16 @@
+{
+  "name": "Day One",
+  "icon": "minecraft:wooden_axe",
+  "category": "01_starting_out",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Start by chopping down trees. You are going to need a lot of wood.$(br2)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecolonies:supplycampdeployer",
+      "text": "$(item)Supply Camp$() "
+    }
+  ]
+}

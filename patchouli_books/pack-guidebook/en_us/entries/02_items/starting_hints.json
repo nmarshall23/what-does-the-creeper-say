@@ -1,0 +1,27 @@
+{
+  "name": "Starting Hints",
+  "icon": "minecraft:wooden_axe",
+  "category": "02_items",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Items you will to craft. $(li)$(item)Campfire$() $(li)$(item)BedRoll$() $(li)$(item)Backpack$() "
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:campfire",
+      "text": "$(item)Campfire$()'s have been tweaked so that Players and Friends receive Regeneration when within 4 meters.$(br)When sticks are cooked in a campfire they become torches."
+    },
+    {
+      "type": "crafting",
+      "recipe": "upgrade_aquatic:bedroll_leather",
+      "text": "$(item)BedRoll$() Sleep without setting a spawn point"
+    },
+    {
+      "type": "crafting",
+      "recipe": "backpacked:backpack",
+      "text": "$(item)Backpack$() Additional storage for the early game. Once you have equipped it in your backpack slot, open it by pressing $(k:backpack)."
+    }
+  ]
+}

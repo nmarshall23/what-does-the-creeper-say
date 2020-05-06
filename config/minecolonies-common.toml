@@ -110,11 +110,11 @@
 	#Range: 30 ~ 99999
 	teleportbuffer = 120
 	#Should the player be allowed to use the '/mc home' command? [Default: true]
-	canplayerusehometpcommand = true
+	canplayerusehometpcommand = false
 	#Can Player Teleport to allied colonies? [Default:true]
-	canplayeruseallytownhallteleport = true
+	canplayeruseallytownhallteleport = false
 	#Should the player be allowed to use the '/mc citizens kill' command? [Default: true]
-	canplayerusekillcitizenscommand = true
+	canplayerusekillcitizenscommand = false
 
 #minecolonies.config.claims.comment
 [claims]
@@ -164,13 +164,13 @@
 	maxBarbarianSize = 20
 	#Health multiplier for all Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	guardhealthmult = 1.0
+	guardhealthmult = 1.5
 	#minecolonies.config.barbarianhordedifficulty.comment
 	#Range: 0 ~ 10
 	barbarianhordedifficulty = 5
 	#The average amount of nights between raids. [Default: 3]
 	#Range: 1 ~ 10
-	averagenumberofnightsbetweenraids = 3
+	averagenumberofnightsbetweenraids = 4
 	#Damage multiplier for Knight Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
 	knightdamagemult = 1.0

@@ -1,0 +1,6 @@
+{
+  "name": "Item of Note",
+  "description": "A List of useful items you should craft",
+  "icon": "minecraft:textures/item/campfire.png",
+  "sortnum": 1
+}

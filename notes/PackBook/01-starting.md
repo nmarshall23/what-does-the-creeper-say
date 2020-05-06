@@ -1,31 +1,26 @@
 # Day One
 
-**Campfire**
+Start by chopping down trees. You are going to need a lot of wood.
 
-Players and Friends receive Regeneration when within 4 meters.
-Place sticks in the fire to create torches. 
+
+
+Suppy Camp
+
+Requires flat area of 16 by 17 clear of grass and flowers. 
+
+
+
+
+
+
 
 
 
 ## Early Game items to make
 
-**Backpack**
-
-Additional storage for the early game. Access by pressing `X`
-
-**Bedroll**
-
-Sleep without setting a spawn point.
+Your are going to need a lot of leather.
 
 
-
-## Mine up Iron
-
-**Crates**
-
-Charm Mod Adds Creates
-
-**Photometer**
 
 
 
@@ -35,14 +30,27 @@ quark:feeding_trough
 
 incubation:chicken_nest
 
+## Dig a Bigger Hole!
+
+Once you have Iron there are some other items you will want.
+
+**Crates**
+
+From the Charm Mod. You are not sure how they fit in your backpack.
+
+**Photometer**
+
 
 
 ## Mechanial 
 
-embellishcraft has bigger Crates those will require presigion bolts
+**Bigger Crates**
+
+Embellishcraft has bigger Crates those will require presigion steel bolts
 
 ## After visting the End City
 
 **Shulker Box**
 
-You can equip a Shulker Box just like a Backpack. You can upgrade themn to larger sizes.
+You can equip a Shulker Box just like a Backpack. You can upgrade them to larger sizes.
+
