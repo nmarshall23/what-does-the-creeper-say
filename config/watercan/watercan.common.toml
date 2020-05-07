@@ -8,7 +8,7 @@
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
 	#Default: 1
 	#Range: 0 ~ 8
-	range = 1
+	range = 2
 	#Defines the range of the watercan.
 	#This is the radius that the water will spread out from the targeted block.
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
@@ -59,7 +59,7 @@
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
 	#Default: 1
 	#Range: 0 ~ 8
-	range = 1
+	range = 2
 	#Defines the range of the watercan.
 	#This is the radius that the water will spread out from the targeted block.
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
@@ -104,24 +104,24 @@
 [wooden_watercan]
 	#Set to false to prevent the watercan from growing crops / growables.
 	#Default: true
-	growCrops = true
+	growCrops = false
 	#Defines the range of the watercan.
 	#This is the radius that the water will spread out from the targeted block.
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
 	#Default: 0
 	#Range: 0 ~ 8
-	range = 0
+	range = 1
 	#Defines the range of the watercan.
 	#This is the radius that the water will spread out from the targeted block.
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
 	#Default: 0
 	#Range: 0 ~ 100
-	flowerChance = 0
+	flowerChance = 25
 	#Use the delay modifier to speed up or slow down growth.
 	#Smaller is faster.
 	#Default: 5
 	#Range: 1 ~ 40
-	delayModifier = 5
+	delayModifier = 30
 	#Set to false to prevent the watercan from moisturizing farmland.
 	#Default: true
 	moisturizeFarmland = true
@@ -161,7 +161,7 @@
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
 	#Default: 2
 	#Range: 0 ~ 8
-	range = 2
+	range = 3
 	#Defines the range of the watercan.
 	#This is the radius that the water will spread out from the targeted block.
 	#For example, a radius of one will water a 3x3 area and a radius of two will water a 5x5 area.
@@ -184,7 +184,7 @@
 	spreadMycelium = true
 	#If true, the watercan can be used in a dispenser.
 	#Default: true
-	isDispensable = true
+	isDispensable = false
 	#Defines the capacity of the watercan in millibuckets.
 	#Set to zero to make the can never run out of water.
 	#Default: 0

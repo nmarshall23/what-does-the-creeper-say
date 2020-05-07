@@ -74,7 +74,7 @@
 
 	[tools.waypointCompass]
 		#Enables the waypoint compass: a compass which points towards a full beacon.
-		enable = true
+		enable = false
 		#If true, waypoint compasses can be dyed all vanilla colors
 		dye = true
 		#If true, waypoint compasses can be crafted using iron and a blaze rod. If false, they are obtained by using a vanilla compass on a beacon.
