@@ -14,6 +14,8 @@ backups/
 usercache.json
 usernamecache.json
 patchouli_data.json
+.mixin.out/
+servers.dat
 
 # configs to ignore
 config/xaerominimap.txt

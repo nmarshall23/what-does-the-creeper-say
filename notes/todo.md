@@ -17,3 +17,10 @@ disable baby zombies
 Remove string plants from Pam's drops.
 
 Disable: <item:storagenetwork:inventory_remote>
+
+## What does Compost Mod do?
+
+
+## Add docs
+
+Make Watering Can
