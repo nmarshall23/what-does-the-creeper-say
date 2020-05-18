@@ -65,7 +65,7 @@
 #Values for the luck attribute.
 [luck]
 	#Range: 0.0 ~ 1.7976931348623157E308
-	min = 0.0
+	min = -1024.0
 	#Range: 0.0 ~ 1.7976931348623157E308
 	max = 65536.0
 

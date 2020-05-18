@@ -34,9 +34,9 @@ force_on_shutdown = false
 
 #Advanced features that shouldn't be changed unless you know what you are doing.
 [advanced]
+	#Disables level saving while performing backup.
+	disable_level_saving = true
 	#Buffer size for writing files.
 	#Range: 256 ~ 65536
 	buffer_size = 4096
-	#Disables level saving while performing backup.
-	disable_level_saving = true
 
