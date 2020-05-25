@@ -1,0 +1,16 @@
+{
+  "name": "item.patchouli:pack_guidebook.entries.first_day.bedroll.name",
+  "icon": "backpacked:backpack",
+
+  "category": "first_day",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.patchouli:pack_guidebook.entries.first_day.bedroll.page1.text"
+    },
+    {
+      "type": "crafting",
+      "recipe": "upgrade_aquatic:bedroll_leather"
+    }
+  ]
+}

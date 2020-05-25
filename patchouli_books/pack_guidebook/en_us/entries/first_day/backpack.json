@@ -1,0 +1,16 @@
+{
+  "name": "item.patchouli:pack_guidebook.entries.first_day.backpack.name",
+  "icon": "backpacked:backpack",
+
+  "category": "first_day",
+  "pages": [
+    {
+      "type": "text",
+      "text": "item.patchouli:pack_guidebook.entries.first_day.backpack.page1.text"
+    },
+    {
+      "type": "crafting",
+      "recipe": "backpacked:backpack"
+    }
+  ]
+}
