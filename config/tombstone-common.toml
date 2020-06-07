@@ -74,7 +74,7 @@
 #Allows to define the conditions for a village siege to begin
 [village_siege]
 	#Undeads always wear a helm when sieging [false/true|default:false]
-	undead_wear_helm_in_siege = true
+	undead_wear_helm_in_siege = false
 	#Shuffles the list of players before testing the siege location [false/true|default:true]
 	shuffle_players_for_siege = true
 	#Logs the different states of a village siege while searching for an adequate place [false/true|default:false]
@@ -104,10 +104,10 @@
 	#The cooldown in minutes to reset the perks with the ankh of Pray [0..60|default:20]
 	#Range: 0 ~ 60
 	cooldown_reset_perk = 20
-	#Allows the purification effect to clear neutral effects [false/true|default:true]
-	purification_affect_neutral_effects = true
 	#The structures that can't be discovered by lost tablets
 	lost_tablet_denied_structures = []
+	#Allows the purification effect to clear neutral effects [false/true|default:true]
+	purification_affect_neutral_effects = true
 	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:40]
 	#Range: 0 ~ 100
 	chance_pray_reward = 40
@@ -176,6 +176,8 @@
 [compatibility]
 	#Keeps the cosmetic armor when you die [false/true|default:true]
 	keep_cosmetic_armor = true
+	#Disables to disenchant items from tetra mod [false/true|default:false]
+	disable_disenchantment_for_tetra = false
 	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
 	allow_curio_auto_equip = true
 

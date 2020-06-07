@@ -49,3 +49,5 @@ config/defaultworldtype/world-types.txt
 config/druidcraft-client.toml
 config/caelus-client.toml
 config/caelus-client.toml
+config/valhelsia_structures-client.toml
+local/ftbutilities/backups.json

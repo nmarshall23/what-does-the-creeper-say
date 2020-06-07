@@ -11,7 +11,7 @@
 	xPos = 0
 	#Inventory HUD orientation
 	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, MIDDLE
-	invOr = "BOTTOM_RIGHT"
+	invOr = "MIDDLE"
 
 #Settings for ArmorStatus HUD
 [armorhud]
