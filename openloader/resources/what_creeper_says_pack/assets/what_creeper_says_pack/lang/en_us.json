@@ -1,0 +1,20 @@
+{
+  "item.patchouli:guide_book.name": "Guide Book",
+  "item.patchouli:guide_book.landing": "Welcome to my Mod Pack. $(br2)In this guide book I have written a few things to do and given links to where to find more infomation.",
+
+  "item.patchouli:guide_book.categories.first_day.name": "Talking with Creepers?!",
+  "item.patchouli:guide_book.categories.first_day.description": "So you just started and need advice.",
+  
+  "item.patchouli:guide_book.categories.gadgets.name": "Useful Gadgets",
+  "item.patchouli:guide_book.categories.gadgets.description": "A list of the useful Tools and Items",
+
+  "item.patchouli:guide_book.categories.exploring.name": "Exploring your World",
+  "item.patchouli:guide_book.categories.exploring.description": "A few things of note you might encounter while exporting.",
+
+
+  "item.patchouli:guide_book.entries.first_day.backpack.name": "Back Pack",
+  "item.patchouli:guide_book.entries.first_day.backpack.page1.text": "Who doesn't need more storage?$(br2)Once you have equipped it in your backpack slot, open it by pressing $(k:backpack).$(br2)See Shulker Box entry for larger storage options.",
+
+  "item.patchouli:guide_book.entries.first_day.bedroll.name": "Bedroll",
+  "item.patchouli:guide_book.entries.first_day.bedroll.page1.text": "Sleep without setting a spawn point.$(br2)Can be dyed for more style points. *Style points are imaginary*"
+}
