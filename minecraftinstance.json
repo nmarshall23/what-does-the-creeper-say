@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-05-18T03:06:56.85084Z",
+  "lastPlayed": "2020-05-25T03:31:05.344069Z",
   "manifest": {
     "minecraft": {
       "version": "1.14.4",
@@ -758,7 +758,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.625871Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:13.5857829Z",
-      "queryTimestamp": "2020-05-17T02:58:32.376738Z",
+      "queryTimestamp": "2020-05-30T02:37:33.492563Z",
       "fileCount": 1,
       "fileSize": 4600638
     },
@@ -773,24 +773,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.949094Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:07.7935241Z",
-      "queryTimestamp": "2020-05-17T02:58:32.377702Z",
+      "queryTimestamp": "2020-05-30T02:37:33.493484Z",
       "fileCount": 1,
       "fileSize": 23291
-    },
-    {
-      "folderName": "colouredchat-1.14.4-1.4.6.jar",
-      "fingerprint": 3073706737,
-      "fileDateHash": 3087755379,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3073706737
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:30.922229Z",
-      "lastWriteTimeUtc": "2020-05-14T20:53:49.7840669Z",
-      "queryTimestamp": "2020-05-17T02:58:32.378287Z",
-      "fileCount": 1,
-      "fileSize": 120340
     },
     {
       "folderName": "bettertridentreturn-1.14.4-1.0.1.jar",
@@ -803,7 +788,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.933458Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:46.7319041Z",
-      "queryTimestamp": "2020-05-17T02:58:32.37894Z",
+      "queryTimestamp": "2020-05-30T02:37:33.494486Z",
       "fileCount": 1,
       "fileSize": 66351
     },
@@ -818,7 +803,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.934768Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:16.3628442Z",
-      "queryTimestamp": "2020-05-17T02:58:32.379533Z",
+      "queryTimestamp": "2020-05-30T02:37:33.495353Z",
       "fileCount": 1,
       "fileSize": 187344
     },
@@ -833,24 +818,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.553621Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:51.5680481Z",
-      "queryTimestamp": "2020-05-17T02:58:32.38026Z",
+      "queryTimestamp": "2020-05-30T02:37:33.496184Z",
       "fileCount": 1,
       "fileSize": 290946
-    },
-    {
-      "folderName": "healingcf_1.14-2.2.jar",
-      "fingerprint": 3756573679,
-      "fileDateHash": 2655547920,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3756573679
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T23:15:17.477012Z",
-      "lastWriteTimeUtc": "2020-05-17T23:14:38.8088031Z",
-      "queryTimestamp": "2020-05-17T23:15:17.755329Z",
-      "fileCount": 1,
-      "fileSize": 8650
     },
     {
       "folderName": "Placebo-1.14.4-2.3.5.jar",
@@ -863,9 +833,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.698891Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:15.5826441Z",
-      "queryTimestamp": "2020-05-17T02:58:32.381385Z",
+      "queryTimestamp": "2020-05-30T02:37:33.496739Z",
       "fileCount": 1,
       "fileSize": 95937
+    },
+    {
+      "folderName": "healingcf_1.14-2.2.jar",
+      "fingerprint": 3756573679,
+      "fileDateHash": 2655547920,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3756573679
+      ],
+      "status": 1,
+      "timestamp": "2020-05-17T23:15:17.477012Z",
+      "lastWriteTimeUtc": "2020-05-17T23:14:38.8088031Z",
+      "queryTimestamp": "2020-05-30T02:37:33.497243Z",
+      "fileCount": 1,
+      "fileSize": 8650
     },
     {
       "folderName": "AdLods-1.14.4-2.0.0.1-build.0078.jar",
@@ -878,24 +863,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.015849Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:12.3597538Z",
-      "queryTimestamp": "2020-05-17T02:58:32.382015Z",
+      "queryTimestamp": "2020-05-30T02:37:33.497879Z",
       "fileCount": 1,
       "fileSize": 48442
-    },
-    {
-      "folderName": "comforts-FORGE-1.14.4-2.0-beta6.jar",
-      "fingerprint": 1602813945,
-      "fileDateHash": 985599147,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1602813945
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:30.784463Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:15.9920294Z",
-      "queryTimestamp": "2020-05-17T02:58:32.382678Z",
-      "fileCount": 1,
-      "fileSize": 233888
     },
     {
       "folderName": "ToolBelt-1.14.4-1.12.5.jar",
@@ -908,48 +878,78 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.807734Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:15.4889688Z",
-      "queryTimestamp": "2020-05-17T02:58:32.383244Z",
+      "queryTimestamp": "2020-05-30T02:37:33.498408Z",
       "fileCount": 1,
       "fileSize": 201425
     },
     {
       "folderName": "test02",
-      "fingerprint": 2585807260,
-      "fileDateHash": 2152808783,
+      "fingerprint": 4288785687,
+      "fileDateHash": 560672131,
       "sectionID": 10,
       "individualFingerprints": [
         43774684,
         47316383,
         261684650,
+        281835193,
         282976973,
         339853837,
+        379607804,
+        397423583,
+        425302136,
+        493735647,
+        513901282,
+        642727184,
+        756868325,
+        827095010,
+        870123894,
+        879525056,
+        883415884,
+        958113952,
         1011575216,
+        1015722936,
         1103383225,
         1273513490,
+        1393612290,
         1426736241,
+        1518813362,
         1540447798,
-        1540447798,
+        1739788310,
+        1765001808,
         1800432844,
         2075900584,
+        2120213082,
+        2153550446,
         2318105690,
+        2421101694,
+        2464072515,
         2464765379,
-        3318091133,
+        2466778751,
+        2613114324,
+        2835936171,
+        3312345547,
         3398395433,
+        3407027302,
         3412070418,
+        3509098397,
+        3528617405,
+        3549307522,
+        3605388984,
         3771282984,
         3771282984,
-        3771282984,
-        3771282984,
+        4008344639,
+        4106352003,
         4106979107,
+        4141549464,
         4206782188,
         4229648150,
         4268186263
       ],
       "status": 1,
-      "timestamp": "2020-05-18T02:57:42.074599Z",
-      "lastWriteTimeUtc": "2020-05-18T02:57:35.9086366Z",
-      "queryTimestamp": "2020-05-18T02:57:42.843521Z",
-      "fileCount": 11,
+      "timestamp": "2020-05-21T15:36:59.494928Z",
+      "lastWriteTimeUtc": "2020-05-18T03:06:09.7647991Z",
+      "queryTimestamp": "2020-05-30T02:37:33.498877Z",
+      "fileCount": 22,
       "fileSize": 0
     },
     {
@@ -963,22 +963,22 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.999563Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:21.7956155Z",
-      "queryTimestamp": "2020-05-17T02:58:32.383867Z",
+      "queryTimestamp": "2020-05-30T02:37:33.499808Z",
       "fileCount": 1,
       "fileSize": 942988
     },
     {
       "folderName": "incubation-1.0.1-1.14.4.jar",
       "fingerprint": 4061754566,
-      "fileDateHash": 1965002687,
+      "fileDateHash": 3598711998,
       "sectionID": 8,
       "individualFingerprints": [
         4061754566
       ],
       "status": 1,
-      "timestamp": "2020-05-17T02:58:31.736762Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:12.5301977Z",
-      "queryTimestamp": "2020-05-17T02:58:32.384383Z",
+      "timestamp": "2020-05-30T21:22:40.157734Z",
+      "lastWriteTimeUtc": "2020-05-30T02:37:52.2358284Z",
+      "queryTimestamp": "2020-05-30T21:22:40.559705Z",
       "fileCount": 1,
       "fileSize": 86238
     },
@@ -993,7 +993,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.588905Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:48.2847742Z",
-      "queryTimestamp": "2020-05-17T02:58:32.384913Z",
+      "queryTimestamp": "2020-05-30T02:37:33.500466Z",
       "fileCount": 1,
       "fileSize": 108551
     },
@@ -1008,7 +1008,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.701719Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:19.5824566Z",
-      "queryTimestamp": "2020-05-17T02:58:32.38541Z",
+      "queryTimestamp": "2020-05-30T02:37:33.502222Z",
       "fileCount": 1,
       "fileSize": 62939
     },
@@ -1023,7 +1023,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.870155Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:04.2772421Z",
-      "queryTimestamp": "2020-05-17T02:58:32.385881Z",
+      "queryTimestamp": "2020-05-30T02:37:33.502813Z",
       "fileCount": 1,
       "fileSize": 9845
     },
@@ -1038,7 +1038,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.93302Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:49.2477419Z",
-      "queryTimestamp": "2020-05-17T02:58:32.386382Z",
+      "queryTimestamp": "2020-05-30T02:37:33.503435Z",
       "fileCount": 1,
       "fileSize": 71327
     },
@@ -1053,24 +1053,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.871671Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:15.3055043Z",
-      "queryTimestamp": "2020-05-17T02:58:32.387412Z",
+      "queryTimestamp": "2020-05-30T02:37:33.504137Z",
       "fileCount": 1,
       "fileSize": 97752
-    },
-    {
-      "folderName": "JEITweaker-1.14.4-1.0.1.jar",
-      "fingerprint": 2208930018,
-      "fileDateHash": 265294791,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2208930018
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T23:13:45.237424Z",
-      "lastWriteTimeUtc": "2020-05-17T03:11:39.258672Z",
-      "queryTimestamp": "2020-05-17T23:13:45.961039Z",
-      "fileCount": 1,
-      "fileSize": 7546
     },
     {
       "folderName": "Bookshelf-1.14.4-4.4.74.jar",
@@ -1083,24 +1068,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.695979Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:15.0048665Z",
-      "queryTimestamp": "2020-05-17T02:58:32.387894Z",
+      "queryTimestamp": "2020-05-30T02:37:33.5047Z",
       "fileCount": 1,
       "fileSize": 124990
     },
     {
-      "folderName": "AdChimneys-1.14.4-4.0.0.1-build.0072.jar",
-      "fingerprint": 1807261677,
-      "fileDateHash": 1129735687,
+      "folderName": "JEITweaker-1.14.4-1.0.1.jar",
+      "fingerprint": 2208930018,
+      "fileDateHash": 265294791,
       "sectionID": 8,
       "individualFingerprints": [
-        1807261677
+        2208930018
       ],
       "status": 1,
-      "timestamp": "2020-05-17T02:58:31.669505Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:08.1514822Z",
-      "queryTimestamp": "2020-05-17T02:58:32.38945Z",
+      "timestamp": "2020-05-17T23:13:45.237424Z",
+      "lastWriteTimeUtc": "2020-05-17T03:11:39.258672Z",
+      "queryTimestamp": "2020-05-30T02:37:33.505212Z",
       "fileCount": 1,
-      "fileSize": 318269
+      "fileSize": 7546
     },
     {
       "folderName": "watercan-1.14.4-2.1.0.jar",
@@ -1113,9 +1098,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.788418Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:51.8403125Z",
-      "queryTimestamp": "2020-05-17T02:58:32.389915Z",
+      "queryTimestamp": "2020-05-30T02:37:33.505718Z",
       "fileCount": 1,
       "fileSize": 47099
+    },
+    {
+      "folderName": "AdChimneys-1.14.4-4.0.0.1-build.0072.jar",
+      "fingerprint": 1807261677,
+      "fileDateHash": 1129735687,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1807261677
+      ],
+      "status": 1,
+      "timestamp": "2020-05-17T02:58:31.669505Z",
+      "lastWriteTimeUtc": "2020-05-14T20:54:08.1514822Z",
+      "queryTimestamp": "2020-05-30T02:37:33.506368Z",
+      "fileCount": 1,
+      "fileSize": 318269
     },
     {
       "folderName": "netherpspr_1.14-3.0.jar",
@@ -1128,7 +1128,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.745057Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:17.7830757Z",
-      "queryTimestamp": "2020-05-17T02:58:32.390403Z",
+      "queryTimestamp": "2020-05-30T02:37:33.506889Z",
       "fileCount": 1,
       "fileSize": 17790
     },
@@ -1143,7 +1143,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.821441Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:50.6047996Z",
-      "queryTimestamp": "2020-05-17T02:58:32.391095Z",
+      "queryTimestamp": "2020-05-30T02:37:33.507474Z",
       "fileCount": 1,
       "fileSize": 2196072
     },
@@ -1158,7 +1158,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.789339Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:07.9984999Z",
-      "queryTimestamp": "2020-05-17T02:58:32.392357Z",
+      "queryTimestamp": "2020-05-30T02:37:33.508041Z",
       "fileCount": 1,
       "fileSize": 11689
     },
@@ -1173,24 +1173,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.749532Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:50.7335171Z",
-      "queryTimestamp": "2020-05-17T02:58:32.393481Z",
+      "queryTimestamp": "2020-05-30T02:37:33.508659Z",
       "fileCount": 1,
       "fileSize": 15653
-    },
-    {
-      "folderName": "CraftTweaker-1.14.4-5.0.1.188.jar",
-      "fingerprint": 4075733084,
-      "fileDateHash": 1182433609,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4075733084
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T23:13:45.299382Z",
-      "lastWriteTimeUtc": "2020-05-17T02:58:42.6828212Z",
-      "queryTimestamp": "2020-05-17T23:13:45.965663Z",
-      "fileCount": 1,
-      "fileSize": 1842330
     },
     {
       "folderName": "InventoryHud_1.14.4.forge-2.3.1.jar",
@@ -1203,7 +1188,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.735274Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:49.3535227Z",
-      "queryTimestamp": "2020-05-17T02:58:32.394043Z",
+      "queryTimestamp": "2020-05-30T02:37:33.509444Z",
       "fileCount": 1,
       "fileSize": 71026
     },
@@ -1218,24 +1203,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.778959Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:11.9567681Z",
-      "queryTimestamp": "2020-05-17T02:58:32.394536Z",
+      "queryTimestamp": "2020-05-30T02:37:33.510153Z",
       "fileCount": 1,
       "fileSize": 183238
-    },
-    {
-      "folderName": "shetiphiancore-1.14-3.6.1.jar",
-      "fingerprint": 2627910063,
-      "fileDateHash": 92873143,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2627910063
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:30.724703Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:00.2017552Z",
-      "queryTimestamp": "2020-05-17T02:58:32.395293Z",
-      "fileCount": 1,
-      "fileSize": 419834
     },
     {
       "folderName": "ruins-1.14.4.6.jar",
@@ -1248,7 +1218,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.621553Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:18.6794671Z",
-      "queryTimestamp": "2020-05-17T02:58:32.395754Z",
+      "queryTimestamp": "2020-05-30T02:37:33.510918Z",
       "fileCount": 1,
       "fileSize": 289505
     },
@@ -1263,7 +1233,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.746555Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:05.867849Z",
-      "queryTimestamp": "2020-05-17T02:58:32.396249Z",
+      "queryTimestamp": "2020-05-30T02:37:33.511961Z",
       "fileCount": 1,
       "fileSize": 7839
     },
@@ -1278,7 +1248,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.809584Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:14.0387731Z",
-      "queryTimestamp": "2020-05-17T02:58:32.396892Z",
+      "queryTimestamp": "2020-05-30T02:37:33.512933Z",
       "fileCount": 1,
       "fileSize": 5809173
     },
@@ -1293,7 +1263,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.684468Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:48.8629328Z",
-      "queryTimestamp": "2020-05-17T02:58:32.397399Z",
+      "queryTimestamp": "2020-05-30T02:37:33.513581Z",
       "fileCount": 1,
       "fileSize": 81921
     },
@@ -1308,7 +1278,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.931012Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:20.0572394Z",
-      "queryTimestamp": "2020-05-17T02:58:32.398834Z",
+      "queryTimestamp": "2020-05-30T02:37:33.514329Z",
       "fileCount": 1,
       "fileSize": 172735
     },
@@ -1323,7 +1293,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.864552Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:27.5994102Z",
-      "queryTimestamp": "2020-05-17T02:58:32.399339Z",
+      "queryTimestamp": "2020-05-30T02:37:33.514934Z",
       "fileCount": 1,
       "fileSize": 281884
     },
@@ -1338,7 +1308,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.55849Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:51.9530771Z",
-      "queryTimestamp": "2020-05-17T02:58:32.39981Z",
+      "queryTimestamp": "2020-05-30T02:37:33.51562Z",
       "fileCount": 1,
       "fileSize": 26602
     },
@@ -1353,7 +1323,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.761711Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:07.7152974Z",
-      "queryTimestamp": "2020-05-17T02:58:32.400292Z",
+      "queryTimestamp": "2020-05-30T02:37:33.51623Z",
       "fileCount": 1,
       "fileSize": 510726
     },
@@ -1368,7 +1338,7 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:45.292942Z",
       "lastWriteTimeUtc": "2020-05-17T03:12:01.5307497Z",
-      "queryTimestamp": "2020-05-17T23:13:45.974148Z",
+      "queryTimestamp": "2020-05-30T02:37:33.516775Z",
       "fileCount": 1,
       "fileSize": 468355
     },
@@ -1383,9 +1353,24 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:44.882686Z",
       "lastWriteTimeUtc": "2020-05-17T03:11:56.9869622Z",
-      "queryTimestamp": "2020-05-17T23:13:45.975214Z",
+      "queryTimestamp": "2020-05-30T02:37:33.517313Z",
       "fileCount": 1,
       "fileSize": 8078
+    },
+    {
+      "folderName": "shetiphiancore-1.14-3.6.2.jar",
+      "fingerprint": 3936073960,
+      "fileDateHash": 4006363099,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3936073960
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T15:38:03.223824Z",
+      "lastWriteTimeUtc": "2020-05-21T15:37:11.51526Z",
+      "queryTimestamp": "2020-05-30T02:37:33.517933Z",
+      "fileCount": 1,
+      "fileSize": 424658
     },
     {
       "folderName": "AppleSkin-mc1.14.4-forge-1.0.13.jar",
@@ -1398,7 +1383,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.800005Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:05.0823665Z",
-      "queryTimestamp": "2020-05-17T02:58:32.401331Z",
+      "queryTimestamp": "2020-05-30T02:37:33.518667Z",
       "fileCount": 1,
       "fileSize": 27427
     },
@@ -1413,7 +1398,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.864522Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:10.6213058Z",
-      "queryTimestamp": "2020-05-17T02:58:32.40274Z",
+      "queryTimestamp": "2020-05-30T02:37:33.519199Z",
       "fileCount": 1,
       "fileSize": 14920
     },
@@ -1428,7 +1413,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.695316Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:19.7896151Z",
-      "queryTimestamp": "2020-05-17T02:58:32.403185Z",
+      "queryTimestamp": "2020-05-30T02:37:33.519706Z",
       "fileCount": 1,
       "fileSize": 12947
     },
@@ -1443,7 +1428,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.261385Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:19.9650023Z",
-      "queryTimestamp": "2020-05-17T02:58:32.403678Z",
+      "queryTimestamp": "2020-05-30T02:37:33.520328Z",
       "fileCount": 1,
       "fileSize": 43048
     },
@@ -1458,7 +1443,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.542928Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:05.2792498Z",
-      "queryTimestamp": "2020-05-17T02:58:32.404181Z",
+      "queryTimestamp": "2020-05-30T02:37:33.521003Z",
       "fileCount": 1,
       "fileSize": 28939
     },
@@ -1473,7 +1458,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.825007Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:48.1450255Z",
-      "queryTimestamp": "2020-05-17T02:58:32.404705Z",
+      "queryTimestamp": "2020-05-30T02:37:33.521582Z",
       "fileCount": 1,
       "fileSize": 8163446
     },
@@ -1488,7 +1473,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.95538Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:19.2983591Z",
-      "queryTimestamp": "2020-05-17T02:58:32.406214Z",
+      "queryTimestamp": "2020-05-30T02:37:33.522121Z",
       "fileCount": 1,
       "fileSize": 853315
     },
@@ -1503,7 +1488,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.743205Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:14.6960214Z",
-      "queryTimestamp": "2020-05-17T02:58:32.406731Z",
+      "queryTimestamp": "2020-05-30T02:37:33.522661Z",
       "fileCount": 1,
       "fileSize": 2331966
     },
@@ -1518,9 +1503,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.750371Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:12.2371823Z",
-      "queryTimestamp": "2020-05-17T02:58:32.407224Z",
+      "queryTimestamp": "2020-05-30T02:37:33.523191Z",
       "fileCount": 1,
       "fileSize": 329138
+    },
+    {
+      "folderName": "XaerosWorldMap_1.6.1_Forge_1.14.4.jar",
+      "fingerprint": 2985501116,
+      "fileDateHash": 2699260858,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2985501116
+      ],
+      "status": 1,
+      "timestamp": "2020-05-29T16:55:29.656533Z",
+      "lastWriteTimeUtc": "2020-05-28T17:59:52.8612631Z",
+      "queryTimestamp": "2020-05-30T21:22:40.578537Z",
+      "fileCount": 1,
+      "fileSize": 283420
     },
     {
       "folderName": "test01",
@@ -1572,7 +1572,7 @@
       "status": 1,
       "timestamp": "2020-05-18T02:57:42.12029Z",
       "lastWriteTimeUtc": "2020-05-18T01:35:48.9862084Z",
-      "queryTimestamp": "2020-05-18T02:57:42.905721Z",
+      "queryTimestamp": "2020-05-30T02:37:33.524148Z",
       "fileCount": 17,
       "fileSize": 0
     },
@@ -1587,24 +1587,123 @@
       "status": 1,
       "timestamp": "2020-05-17T23:15:17.472855Z",
       "lastWriteTimeUtc": "2020-05-17T23:14:37.0763426Z",
-      "queryTimestamp": "2020-05-17T23:15:17.778547Z",
+      "queryTimestamp": "2020-05-30T02:37:33.52465Z",
       "fileCount": 1,
       "fileSize": 8476
     },
     {
       "folderName": "Inspirations-1.14.4-1.0.2.jar",
       "fingerprint": 23604744,
-      "fileDateHash": 1232483569,
+      "fileDateHash": 2493840799,
       "sectionID": 8,
       "individualFingerprints": [
         23604744
       ],
       "status": 1,
-      "timestamp": "2020-05-17T02:58:31.243464Z",
-      "lastWriteTimeUtc": "2020-05-14T20:53:50.1058731Z",
-      "queryTimestamp": "2020-05-17T02:58:32.407731Z",
+      "timestamp": "2020-05-25T21:57:35.93325Z",
+      "lastWriteTimeUtc": "2020-05-25T21:57:12.9028766Z",
+      "queryTimestamp": "2020-05-30T02:37:33.525177Z",
       "fileCount": 1,
       "fileSize": 875722
+    },
+    {
+      "folderName": "test04",
+      "fingerprint": 3007354520,
+      "fileDateHash": 148941071,
+      "sectionID": 10,
+      "individualFingerprints": [
+        43774684,
+        47316383,
+        193390582,
+        197228577,
+        250329132,
+        261684650,
+        326361289,
+        339853837,
+        370123558,
+        482226711,
+        513901282,
+        637199976,
+        721932254,
+        795868850,
+        827095010,
+        875660980,
+        877196884,
+        902526156,
+        942361837,
+        1011575216,
+        1035294128,
+        1053489063,
+        1060771567,
+        1092513692,
+        1101909736,
+        1103383225,
+        1174896837,
+        1176735097,
+        1204335235,
+        1254818454,
+        1273513490,
+        1344157822,
+        1393612290,
+        1414105317,
+        1421425989,
+        1480730613,
+        1503182271,
+        1540447798,
+        1636080250,
+        1800432844,
+        1985438633,
+        2054421206,
+        2057461760,
+        2075900584,
+        2076060269,
+        2076061500,
+        2181726117,
+        2198961708,
+        2208659107,
+        2208716203,
+        2209728820,
+        2282279277,
+        2318105690,
+        2362231393,
+        2419185980,
+        2461268883,
+        2464765379,
+        2487396850,
+        2585835835,
+        2667907773,
+        2678683368,
+        2877397317,
+        2884585638,
+        3203914187,
+        3247543384,
+        3280046760,
+        3354645175,
+        3354748362,
+        3398395433,
+        3412070418,
+        3674600602,
+        3686323737,
+        3735328083,
+        3771282984,
+        3866143821,
+        3866938538,
+        3957091910,
+        3995577157,
+        4087001776,
+        4131015831,
+        4206782188,
+        4229648150,
+        4268186263,
+        4270118989,
+        4288235699
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T15:36:58.25539Z",
+      "lastWriteTimeUtc": "2020-05-20T06:55:05.9583181Z",
+      "queryTimestamp": "2020-05-30T02:37:33.525597Z",
+      "fileCount": 22,
+      "fileSize": 0
     },
     {
       "folderName": "Ding-1.14.4-1.1.0.jar",
@@ -1617,7 +1716,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.014434Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:15.7465763Z",
-      "queryTimestamp": "2020-05-17T02:58:32.408146Z",
+      "queryTimestamp": "2020-05-30T02:37:33.526059Z",
       "fileCount": 1,
       "fileSize": 8120
     },
@@ -1632,7 +1731,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.612266Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:14.361625Z",
-      "queryTimestamp": "2020-05-17T02:58:32.408789Z",
+      "queryTimestamp": "2020-05-30T02:37:33.526838Z",
       "fileCount": 1,
       "fileSize": 52690
     },
@@ -1647,7 +1746,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.793885Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:22.1609679Z",
-      "queryTimestamp": "2020-05-17T02:58:32.409326Z",
+      "queryTimestamp": "2020-05-30T02:37:33.527525Z",
       "fileCount": 1,
       "fileSize": 27102
     },
@@ -1662,7 +1761,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.881971Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:47.535454Z",
-      "queryTimestamp": "2020-05-17T02:58:32.409813Z",
+      "queryTimestamp": "2020-05-30T02:37:33.528125Z",
       "fileCount": 1,
       "fileSize": 19565
     },
@@ -1677,7 +1776,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.949719Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:27.6897624Z",
-      "queryTimestamp": "2020-05-17T02:58:32.410243Z",
+      "queryTimestamp": "2020-05-30T02:37:33.52882Z",
       "fileCount": 1,
       "fileSize": 470117
     },
@@ -1692,7 +1791,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.258289Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:14.2363929Z",
-      "queryTimestamp": "2020-05-17T02:58:32.410754Z",
+      "queryTimestamp": "2020-05-30T02:37:33.52954Z",
       "fileCount": 1,
       "fileSize": 117818
     },
@@ -1707,7 +1806,7 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:45.274537Z",
       "lastWriteTimeUtc": "2020-05-17T03:11:42.5864719Z",
-      "queryTimestamp": "2020-05-17T23:13:45.98404Z",
+      "queryTimestamp": "2020-05-30T02:37:33.530109Z",
       "fileCount": 1,
       "fileSize": 152001
     },
@@ -1722,7 +1821,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.964191Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:08.2851473Z",
-      "queryTimestamp": "2020-05-17T02:58:32.411208Z",
+      "queryTimestamp": "2020-05-30T02:37:33.530871Z",
       "fileCount": 1,
       "fileSize": 36550
     },
@@ -1737,7 +1836,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.256693Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:22.0320516Z",
-      "queryTimestamp": "2020-05-17T02:58:32.411781Z",
+      "queryTimestamp": "2020-05-30T02:37:33.53151Z",
       "fileCount": 1,
       "fileSize": 54243
     },
@@ -1752,7 +1851,7 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:44.917454Z",
       "lastWriteTimeUtc": "2020-05-17T03:11:28.3456086Z",
-      "queryTimestamp": "2020-05-17T23:13:45.985655Z",
+      "queryTimestamp": "2020-05-30T02:37:33.532144Z",
       "fileCount": 1,
       "fileSize": 355256
     },
@@ -1767,7 +1866,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.70456Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:10.0202975Z",
-      "queryTimestamp": "2020-05-17T02:58:32.412207Z",
+      "queryTimestamp": "2020-05-30T02:37:33.533737Z",
       "fileCount": 1,
       "fileSize": 3279571
     },
@@ -1782,7 +1881,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.940646Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:51.2013304Z",
-      "queryTimestamp": "2020-05-17T02:58:32.412697Z",
+      "queryTimestamp": "2020-05-30T02:37:33.534299Z",
       "fileCount": 1,
       "fileSize": 57604
     },
@@ -1797,7 +1896,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.262989Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:09.5230514Z",
-      "queryTimestamp": "2020-05-17T02:58:32.413136Z",
+      "queryTimestamp": "2020-05-30T02:37:33.534924Z",
       "fileCount": 1,
       "fileSize": 834559
     },
@@ -1812,24 +1911,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.914078Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:04.3840704Z",
-      "queryTimestamp": "2020-05-17T02:58:32.414076Z",
+      "queryTimestamp": "2020-05-30T02:37:33.53552Z",
       "fileCount": 1,
       "fileSize": 701099
-    },
-    {
-      "folderName": "invtotem_1.14-1.0.jar",
-      "fingerprint": 2279644462,
-      "fileDateHash": 1476149761,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2279644462
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:29.937366Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:03.8969552Z",
-      "queryTimestamp": "2020-05-17T02:58:32.415155Z",
-      "fileCount": 1,
-      "fileSize": 5050
     },
     {
       "folderName": "walljump-1.14.4-1.3.1.jar",
@@ -1842,7 +1926,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.920662Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:17.6538439Z",
-      "queryTimestamp": "2020-05-17T02:58:32.415793Z",
+      "queryTimestamp": "2020-05-30T02:37:33.536081Z",
       "fileCount": 1,
       "fileSize": 83322
     },
@@ -1857,7 +1941,7 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:44.875284Z",
       "lastWriteTimeUtc": "2020-05-17T03:11:53.2080909Z",
-      "queryTimestamp": "2020-05-17T23:13:45.988715Z",
+      "queryTimestamp": "2020-05-30T02:37:33.536697Z",
       "fileCount": 1,
       "fileSize": 360130
     },
@@ -1872,24 +1956,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.737756Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:07.5865497Z",
-      "queryTimestamp": "2020-05-17T02:58:32.416404Z",
+      "queryTimestamp": "2020-05-30T02:37:33.537329Z",
       "fileCount": 1,
       "fileSize": 22261
-    },
-    {
-      "folderName": "tombstone-4.3.5-1.14.4.jar",
-      "fingerprint": 657415571,
-      "fileDateHash": 2917802915,
-      "sectionID": 8,
-      "individualFingerprints": [
-        657415571
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T23:13:44.923547Z",
-      "lastWriteTimeUtc": "2020-05-17T03:11:31.485508Z",
-      "queryTimestamp": "2020-05-17T23:13:45.989663Z",
-      "fileCount": 1,
-      "fileSize": 1127391
     },
     {
       "folderName": "switchbow-1.5.8.jar",
@@ -1902,7 +1971,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.885304Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:27.525651Z",
-      "queryTimestamp": "2020-05-17T02:58:32.416894Z",
+      "queryTimestamp": "2020-05-30T02:37:33.53797Z",
       "fileCount": 1,
       "fileSize": 495323
     },
@@ -1917,7 +1986,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.738747Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:46.9725204Z",
-      "queryTimestamp": "2020-05-17T02:58:32.418305Z",
+      "queryTimestamp": "2020-05-30T02:37:33.538817Z",
       "fileCount": 1,
       "fileSize": 42424
     },
@@ -1932,7 +2001,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.966365Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:00.619741Z",
-      "queryTimestamp": "2020-05-17T02:58:32.419108Z",
+      "queryTimestamp": "2020-05-30T02:37:33.539391Z",
       "fileCount": 1,
       "fileSize": 14519
     },
@@ -1947,7 +2016,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.871405Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:15.3823216Z",
-      "queryTimestamp": "2020-05-17T02:58:32.420236Z",
+      "queryTimestamp": "2020-05-30T02:37:33.540035Z",
       "fileCount": 1,
       "fileSize": 60193
     },
@@ -1962,39 +2031,39 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.27581Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:21.0267354Z",
-      "queryTimestamp": "2020-05-17T02:58:32.421158Z",
+      "queryTimestamp": "2020-05-30T02:37:33.540715Z",
       "fileCount": 1,
       "fileSize": 441282
     },
     {
       "folderName": "CookingForBlockheads_1.14.4-7.4.4.jar",
       "fingerprint": 4067172898,
-      "fileDateHash": 1487255565,
+      "fileDateHash": 3362917827,
       "sectionID": 8,
       "individualFingerprints": [
         4067172898
       ],
       "status": 1,
-      "timestamp": "2020-05-17T02:58:31.677098Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:06.1379409Z",
-      "queryTimestamp": "2020-05-17T02:58:32.421721Z",
+      "timestamp": "2020-05-25T21:57:35.941367Z",
+      "lastWriteTimeUtc": "2020-05-25T21:57:04.977482Z",
+      "queryTimestamp": "2020-05-30T02:37:33.541292Z",
       "fileCount": 1,
       "fileSize": 575949
     },
     {
-      "folderName": "KleeSlabs_1.14.4-7.4.8.jar.disabled",
-      "fingerprint": 1374458416,
-      "fileDateHash": 739324339,
+      "folderName": "snowundertrees-1.14.4-v1.1.1.jar",
+      "fingerprint": 3572947859,
+      "fileDateHash": 3778918715,
       "sectionID": 8,
       "individualFingerprints": [
-        1374458416
+        3572947859
       ],
       "status": 1,
-      "timestamp": "2020-05-17T23:13:45.317528Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:14.4833724Z",
-      "queryTimestamp": "2020-05-17T23:13:45.994023Z",
+      "timestamp": "2020-05-21T15:36:58.20751Z",
+      "lastWriteTimeUtc": "2020-05-20T04:54:15.5371181Z",
+      "queryTimestamp": "2020-05-30T02:37:33.541918Z",
       "fileCount": 1,
-      "fileSize": 38258
+      "fileSize": 15139
     },
     {
       "folderName": "InitialInventory-4.0.0.jar",
@@ -2007,24 +2076,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.73423Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:05.7912403Z",
-      "queryTimestamp": "2020-05-17T02:58:32.423668Z",
+      "queryTimestamp": "2020-05-30T02:37:33.542503Z",
       "fileCount": 1,
       "fileSize": 6004
-    },
-    {
-      "folderName": "futurepack-1.14.4-28.0.126.jar",
-      "fingerprint": 1127649901,
-      "fileDateHash": 1182010293,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1127649901
-      ],
-      "status": 1,
-      "timestamp": "2020-05-18T02:57:41.718783Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:26.5945022Z",
-      "queryTimestamp": "2020-05-18T02:57:42.934519Z",
-      "fileCount": 1,
-      "fileSize": 28173580
     },
     {
       "folderName": "create-mc1.14.4_v0.2.3.jar",
@@ -2037,24 +2091,9 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:44.883711Z",
       "lastWriteTimeUtc": "2020-05-17T02:58:44.3924654Z",
-      "queryTimestamp": "2020-05-17T23:13:45.997349Z",
+      "queryTimestamp": "2020-05-30T02:37:33.543075Z",
       "fileCount": 1,
       "fileSize": 3222187
-    },
-    {
-      "folderName": "Druidcraft-1.14-0.4.0-dev0.6.jar.disabled",
-      "fingerprint": 759513019,
-      "fileDateHash": 729490272,
-      "sectionID": 8,
-      "individualFingerprints": [
-        759513019
-      ],
-      "status": 1,
-      "timestamp": "2020-05-18T02:57:41.695898Z",
-      "lastWriteTimeUtc": "2020-05-17T03:11:35.7344758Z",
-      "queryTimestamp": "2020-05-18T02:57:42.936185Z",
-      "fileCount": 1,
-      "fileSize": 1098283
     },
     {
       "folderName": "corail_woodcutter-1.1.1-1.14.4.jar",
@@ -2067,7 +2106,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.817015Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:46.565436Z",
-      "queryTimestamp": "2020-05-17T02:58:32.425267Z",
+      "queryTimestamp": "2020-05-30T02:37:33.543655Z",
       "fileCount": 1,
       "fileSize": 296519
     },
@@ -2082,7 +2121,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.7837Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:49.9190821Z",
-      "queryTimestamp": "2020-05-17T02:58:32.425872Z",
+      "queryTimestamp": "2020-05-30T02:37:33.544182Z",
       "fileCount": 1,
       "fileSize": 489564
     },
@@ -2097,7 +2136,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.823985Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:22.2915214Z",
-      "queryTimestamp": "2020-05-17T02:58:32.426353Z",
+      "queryTimestamp": "2020-05-30T02:37:33.544831Z",
       "fileCount": 1,
       "fileSize": 47383
     },
@@ -2112,7 +2151,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.991335Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:10.4451445Z",
-      "queryTimestamp": "2020-05-17T02:58:32.426852Z",
+      "queryTimestamp": "2020-05-30T02:37:33.54547Z",
       "fileCount": 1,
       "fileSize": 418314
     },
@@ -2127,7 +2166,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.938808Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:19.4220961Z",
-      "queryTimestamp": "2020-05-17T02:58:32.427462Z",
+      "queryTimestamp": "2020-05-30T02:37:33.546214Z",
       "fileCount": 1,
       "fileSize": 321686
     },
@@ -2142,7 +2181,7 @@
       "status": 1,
       "timestamp": "2020-05-17T23:13:45.239464Z",
       "lastWriteTimeUtc": "2020-05-17T03:11:27.5868394Z",
-      "queryTimestamp": "2020-05-17T23:13:46.003223Z",
+      "queryTimestamp": "2020-05-30T02:37:33.546803Z",
       "fileCount": 1,
       "fileSize": 387533
     },
@@ -2157,7 +2196,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.28203Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:03.1347493Z",
-      "queryTimestamp": "2020-05-17T02:58:32.428195Z",
+      "queryTimestamp": "2020-05-30T02:37:33.547511Z",
       "fileCount": 1,
       "fileSize": 34660636
     },
@@ -2172,9 +2211,92 @@
       "status": 1,
       "timestamp": "2020-05-17T23:15:17.474111Z",
       "lastWriteTimeUtc": "2020-05-17T23:15:08.1005918Z",
-      "queryTimestamp": "2020-05-17T23:15:17.798649Z",
+      "queryTimestamp": "2020-05-30T02:37:33.548057Z",
       "fileCount": 1,
       "fileSize": 156158
+    },
+    {
+      "folderName": "CraftTweaker-1.14.4-5.0.1.190.jar",
+      "fingerprint": 562271294,
+      "fileDateHash": 2413533287,
+      "sectionID": 8,
+      "individualFingerprints": [
+        562271294
+      ],
+      "status": 1,
+      "timestamp": "2020-05-29T16:55:29.634758Z",
+      "lastWriteTimeUtc": "2020-05-28T17:59:44.9322697Z",
+      "queryTimestamp": "2020-05-30T21:22:40.598956Z",
+      "fileCount": 1,
+      "fileSize": 1846403
+    },
+    {
+      "folderName": "test03",
+      "fingerprint": 3574346660,
+      "fileDateHash": 4158141107,
+      "sectionID": 10,
+      "individualFingerprints": [
+        43774684,
+        47316383,
+        192254860,
+        244199221,
+        261684650,
+        339853837,
+        421752124,
+        513901282,
+        532652010,
+        595136313,
+        626371235,
+        677638227,
+        766320959,
+        827095010,
+        891721856,
+        1011575216,
+        1144747208,
+        1393612290,
+        1399117977,
+        1540447798,
+        1800432844,
+        1883542792,
+        2075900584,
+        2241988844,
+        2318105690,
+        2464765379,
+        2694424201,
+        2695126076,
+        2794531176,
+        2945182784,
+        3127573907,
+        3147797097,
+        3196171748,
+        3412070418,
+        3629161579,
+        3659733252,
+        3673503515,
+        3673503515,
+        3673503515,
+        3673503515,
+        3673503515,
+        3678506730,
+        3771282984,
+        3771282984,
+        3771282984,
+        3771282984,
+        3771282984,
+        3833632282,
+        4023921055,
+        4189136870,
+        4206782188,
+        4229648150,
+        4262631838,
+        4283907430
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T15:36:59.317469Z",
+      "lastWriteTimeUtc": "2020-05-18T05:15:30.2879472Z",
+      "queryTimestamp": "2020-05-30T02:37:33.549133Z",
+      "fileCount": 22,
+      "fileSize": 0
     },
     {
       "folderName": "Patchouli-1.14.4-1.1-26.5.jar",
@@ -2185,11 +2307,59 @@
         170616956
       ],
       "status": 1,
-      "timestamp": "2020-05-17T02:58:29.874315Z",
+      "timestamp": "2020-05-26T16:11:31.304456Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:00.5208129Z",
-      "queryTimestamp": "2020-05-17T02:58:32.42974Z",
+      "queryTimestamp": "2020-05-30T02:37:33.549725Z",
       "fileCount": 1,
       "fileSize": 484400
+    },
+    {
+      "folderName": "test001",
+      "fingerprint": 966233274,
+      "fileDateHash": 1728613983,
+      "sectionID": 10,
+      "individualFingerprints": [
+        43774684,
+        47316383,
+        185755831,
+        261684650,
+        330692610,
+        339853837,
+        513901282,
+        898002209,
+        987483037,
+        987781694,
+        1011575216,
+        1103383225,
+        1273513490,
+        1382816682,
+        1393612290,
+        1540447798,
+        1540447798,
+        1571812942,
+        1800432844,
+        2025773097,
+        2075900584,
+        2318105690,
+        2464765379,
+        2464783989,
+        2709686626,
+        3003680710,
+        3211259710,
+        3320469219,
+        3398395433,
+        3412070418,
+        3820086476,
+        4009055030,
+        4206782188,
+        4268186263
+      ],
+      "status": 1,
+      "timestamp": "2020-05-25T21:57:35.948996Z",
+      "lastWriteTimeUtc": "2020-05-25T03:03:45.5683936Z",
+      "queryTimestamp": "2020-05-30T02:37:33.550067Z",
+      "fileCount": 16,
+      "fileSize": 0
     },
     {
       "folderName": "WitherSkeletonTweaks-1.14.4-3.1.0.jar",
@@ -2202,7 +2372,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.012162Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:11.8719587Z",
-      "queryTimestamp": "2020-05-17T02:58:32.431327Z",
+      "queryTimestamp": "2020-05-30T02:37:33.550678Z",
       "fileCount": 1,
       "fileSize": 23290
     },
@@ -2217,7 +2387,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.787874Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:18.8369608Z",
-      "queryTimestamp": "2020-05-17T02:58:32.431916Z",
+      "queryTimestamp": "2020-05-30T02:37:33.551615Z",
       "fileCount": 1,
       "fileSize": 24394
     },
@@ -2232,39 +2402,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.875732Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:46.8329137Z",
-      "queryTimestamp": "2020-05-17T02:58:32.432477Z",
+      "queryTimestamp": "2020-05-30T02:37:33.552432Z",
       "fileCount": 1,
       "fileSize": 221317
-    },
-    {
-      "folderName": "platforms-1.14-1.5.1.jar",
-      "fingerprint": 442030692,
-      "fileDateHash": 2577160704,
-      "sectionID": 8,
-      "individualFingerprints": [
-        442030692
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:29.734227Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:10.8054106Z",
-      "queryTimestamp": "2020-05-17T02:58:32.433007Z",
-      "fileCount": 1,
-      "fileSize": 487297
-    },
-    {
-      "folderName": "guardvillagers-1.14.4-1.0.5.jar",
-      "fingerprint": 2614148043,
-      "fileDateHash": 3508097182,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2614148043
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:31.739354Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:04.9350097Z",
-      "queryTimestamp": "2020-05-17T02:58:32.433542Z",
-      "fileCount": 1,
-      "fileSize": 69601
     },
     {
       "folderName": "AutoRegLib-1.4-35.jar",
@@ -2277,9 +2417,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.910035Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:09.6122175Z",
-      "queryTimestamp": "2020-05-17T02:58:32.433971Z",
+      "queryTimestamp": "2020-05-30T02:37:33.553004Z",
       "fileCount": 1,
       "fileSize": 61065
+    },
+    {
+      "folderName": "guardvillagers-1.14.4-1.0.5.jar",
+      "fingerprint": 2614148043,
+      "fileDateHash": 3508097182,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2614148043
+      ],
+      "status": 1,
+      "timestamp": "2020-05-17T02:58:31.739354Z",
+      "lastWriteTimeUtc": "2020-05-14T20:54:04.9350097Z",
+      "queryTimestamp": "2020-05-30T02:37:33.55361Z",
+      "fileCount": 1,
+      "fileSize": 69601
     },
     {
       "folderName": "ToastControl-1.14.4-2.2.0.jar",
@@ -2292,24 +2447,39 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.235426Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:50.2412789Z",
-      "queryTimestamp": "2020-05-17T02:58:32.434442Z",
+      "queryTimestamp": "2020-05-30T02:37:33.554178Z",
       "fileCount": 1,
       "fileSize": 22833
     },
     {
-      "folderName": "nopoles-1.14.4-3.1.6.jar.disabled",
-      "fingerprint": 3132075149,
-      "fileDateHash": 2750442334,
+      "folderName": "OpenLoader-1.14.4-1.0.4.jar",
+      "fingerprint": 3486406325,
+      "fileDateHash": 1856465620,
       "sectionID": 8,
       "individualFingerprints": [
-        3132075149
+        3486406325
       ],
       "status": 1,
-      "timestamp": "2020-05-17T23:13:45.277475Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:03.451415Z",
-      "queryTimestamp": "2020-05-17T23:13:46.010519Z",
+      "timestamp": "2020-05-28T17:59:35.136392Z",
+      "lastWriteTimeUtc": "2020-05-26T16:34:10.0788811Z",
+      "queryTimestamp": "2020-05-30T02:37:33.554715Z",
       "fileCount": 1,
-      "fileSize": 205506
+      "fileSize": 7658
+    },
+    {
+      "folderName": "tombstone-4.3.6-1.14.4.jar",
+      "fingerprint": 1933594163,
+      "fileDateHash": 2682544894,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1933594163
+      ],
+      "status": 1,
+      "timestamp": "2020-05-24T21:37:19.383598Z",
+      "lastWriteTimeUtc": "2020-05-23T04:41:18.8912279Z",
+      "queryTimestamp": "2020-05-30T02:37:33.555229Z",
+      "fileCount": 1,
+      "fileSize": 1147332
     },
     {
       "folderName": "Aquaculture-1.14.4-2.0.7.jar",
@@ -2322,7 +2492,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.948114Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:55.4801817Z",
-      "queryTimestamp": "2020-05-17T02:58:32.434917Z",
+      "queryTimestamp": "2020-05-30T02:37:33.55575Z",
       "fileCount": 1,
       "fileSize": 449085
     },
@@ -2337,7 +2507,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.549077Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:21.5318993Z",
-      "queryTimestamp": "2020-05-17T02:58:32.435551Z",
+      "queryTimestamp": "2020-05-30T02:37:33.556456Z",
       "fileCount": 1,
       "fileSize": 3658
     },
@@ -2352,7 +2522,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.74265Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:10.9945296Z",
-      "queryTimestamp": "2020-05-17T02:58:32.436116Z",
+      "queryTimestamp": "2020-05-30T02:37:33.557Z",
       "fileCount": 1,
       "fileSize": 99747
     },
@@ -2367,7 +2537,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.962252Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:21.4293895Z",
-      "queryTimestamp": "2020-05-17T02:58:32.436524Z",
+      "queryTimestamp": "2020-05-30T02:37:33.557413Z",
       "fileCount": 1,
       "fileSize": 52919
     },
@@ -2382,7 +2552,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.686409Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:05.6610364Z",
-      "queryTimestamp": "2020-05-17T02:58:32.436997Z",
+      "queryTimestamp": "2020-05-30T02:37:33.557901Z",
       "fileCount": 1,
       "fileSize": 794126
     },
@@ -2397,7 +2567,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.924085Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:51.7519762Z",
-      "queryTimestamp": "2020-05-17T02:58:32.43748Z",
+      "queryTimestamp": "2020-05-30T02:37:33.558397Z",
       "fileCount": 1,
       "fileSize": 798804
     },
@@ -2412,7 +2582,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.613299Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:05.0053529Z",
-      "queryTimestamp": "2020-05-17T02:58:32.4379Z",
+      "queryTimestamp": "2020-05-30T02:37:33.558902Z",
       "fileCount": 1,
       "fileSize": 8217
     },
@@ -2427,7 +2597,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.947059Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:18.9814914Z",
-      "queryTimestamp": "2020-05-17T02:58:32.438356Z",
+      "queryTimestamp": "2020-05-30T02:37:33.559382Z",
       "fileCount": 1,
       "fileSize": 17723
     },
@@ -2442,7 +2612,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.924414Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:08.9796212Z",
-      "queryTimestamp": "2020-05-17T02:58:32.439021Z",
+      "queryTimestamp": "2020-05-30T02:37:33.55997Z",
       "fileCount": 1,
       "fileSize": 615253
     },
@@ -2457,7 +2627,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.846101Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:11.350651Z",
-      "queryTimestamp": "2020-05-17T02:58:32.439589Z",
+      "queryTimestamp": "2020-05-30T02:37:33.56048Z",
       "fileCount": 1,
       "fileSize": 855550
     },
@@ -2472,7 +2642,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.869407Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:09.743324Z",
-      "queryTimestamp": "2020-05-17T02:58:32.440086Z",
+      "queryTimestamp": "2020-05-30T02:37:33.561199Z",
       "fileCount": 1,
       "fileSize": 10149
     },
@@ -2487,7 +2657,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.953697Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:17.5473513Z",
-      "queryTimestamp": "2020-05-17T02:58:32.440588Z",
+      "queryTimestamp": "2020-05-30T02:37:33.561874Z",
       "fileCount": 1,
       "fileSize": 8556
     },
@@ -2502,24 +2672,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.545448Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:17.4618771Z",
-      "queryTimestamp": "2020-05-17T02:58:32.441036Z",
+      "queryTimestamp": "2020-05-30T02:37:33.563488Z",
       "fileCount": 1,
       "fileSize": 296171
-    },
-    {
-      "folderName": "Xaeros_Minimap_20.9.0_Forge_1.14.4.jar",
-      "fingerprint": 3346649523,
-      "fileDateHash": 2328693543,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3346649523
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:29.954463Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:21.3324337Z",
-      "queryTimestamp": "2020-05-17T02:58:32.441618Z",
-      "fileCount": 1,
-      "fileSize": 515592
     },
     {
       "folderName": "anviltweaks-1.4b.jar",
@@ -2532,7 +2687,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.7367Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:49.1525213Z",
-      "queryTimestamp": "2020-05-17T02:58:32.442048Z",
+      "queryTimestamp": "2020-05-30T02:37:33.564119Z",
       "fileCount": 1,
       "fileSize": 40392
     },
@@ -2547,7 +2702,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.75138Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:08.623142Z",
-      "queryTimestamp": "2020-05-17T02:58:32.442545Z",
+      "queryTimestamp": "2020-05-30T02:37:33.564683Z",
       "fileCount": 1,
       "fileSize": 3299
     },
@@ -2562,24 +2717,9 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.90471Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:18.2226855Z",
-      "queryTimestamp": "2020-05-17T02:58:32.442963Z",
+      "queryTimestamp": "2020-05-30T02:37:33.565232Z",
       "fileCount": 1,
       "fileSize": 167683
-    },
-    {
-      "folderName": "mysticalworld-1.14.4-1.9.3.jar",
-      "fingerprint": 3849244595,
-      "fileDateHash": 3060514883,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3849244595
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T23:13:45.24468Z",
-      "lastWriteTimeUtc": "2020-05-17T03:11:49.0092924Z",
-      "queryTimestamp": "2020-05-17T23:13:46.019505Z",
-      "fileCount": 1,
-      "fileSize": 2913643
     },
     {
       "folderName": "ChineseWorkshop-1.14.4-2.4.1.jar",
@@ -2592,7 +2732,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.029435Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:04.0808656Z",
-      "queryTimestamp": "2020-05-17T02:58:32.443471Z",
+      "queryTimestamp": "2020-05-30T02:37:33.565837Z",
       "fileCount": 1,
       "fileSize": 544242
     },
@@ -2607,9 +2747,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.722897Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:21.6256328Z",
-      "queryTimestamp": "2020-05-17T02:58:32.444038Z",
+      "queryTimestamp": "2020-05-30T02:37:33.566559Z",
       "fileCount": 1,
       "fileSize": 59710
+    },
+    {
+      "folderName": "mysticalworld-1.14.4-1.9.3.jar",
+      "fingerprint": 3849244595,
+      "fileDateHash": 3060514883,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3849244595
+      ],
+      "status": 1,
+      "timestamp": "2020-05-26T16:11:31.312946Z",
+      "lastWriteTimeUtc": "2020-05-17T03:11:49.0092924Z",
+      "queryTimestamp": "2020-05-30T02:37:33.567149Z",
+      "fileCount": 1,
+      "fileSize": 2913643
     },
     {
       "folderName": "CosmeticArmorReworked-1.14.4-v3.jar",
@@ -2622,7 +2777,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.964328Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:27.8138708Z",
-      "queryTimestamp": "2020-05-17T02:58:32.444578Z",
+      "queryTimestamp": "2020-05-30T02:37:33.567826Z",
       "fileCount": 1,
       "fileSize": 88403
     },
@@ -2637,7 +2792,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.795557Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:12.9121584Z",
-      "queryTimestamp": "2020-05-17T02:58:32.445129Z",
+      "queryTimestamp": "2020-05-30T02:37:33.568485Z",
       "fileCount": 1,
       "fileSize": 43079
     },
@@ -2652,7 +2807,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.551157Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:48.9792724Z",
-      "queryTimestamp": "2020-05-17T02:58:32.445999Z",
+      "queryTimestamp": "2020-05-30T02:37:33.568985Z",
       "fileCount": 1,
       "fileSize": 7225
     },
@@ -2667,7 +2822,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.751998Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:24.3629278Z",
-      "queryTimestamp": "2020-05-17T02:58:32.446385Z",
+      "queryTimestamp": "2020-05-30T02:37:33.569472Z",
       "fileCount": 1,
       "fileSize": 5830116
     },
@@ -2682,7 +2837,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.693843Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:10.3226952Z",
-      "queryTimestamp": "2020-05-17T02:58:32.446789Z",
+      "queryTimestamp": "2020-05-30T02:37:33.569982Z",
       "fileCount": 1,
       "fileSize": 4384973
     },
@@ -2697,9 +2852,39 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:29.893208Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:12.674297Z",
-      "queryTimestamp": "2020-05-17T02:58:32.44726Z",
+      "queryTimestamp": "2020-05-30T02:37:33.570488Z",
       "fileCount": 1,
       "fileSize": 310141
+    },
+    {
+      "folderName": "Xaeros_Minimap_20.12.1_Forge_1.14.4.jar",
+      "fingerprint": 2615652536,
+      "fileDateHash": 2064972237,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2615652536
+      ],
+      "status": 1,
+      "timestamp": "2020-05-29T16:55:29.662302Z",
+      "lastWriteTimeUtc": "2020-05-28T17:59:51.6277795Z",
+      "queryTimestamp": "2020-05-30T21:22:40.618739Z",
+      "fileCount": 1,
+      "fileSize": 522593
+    },
+    {
+      "folderName": "platforms-1.14-1.5.2.jar",
+      "fingerprint": 1950976194,
+      "fileDateHash": 2072980866,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1950976194
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T15:38:03.217114Z",
+      "lastWriteTimeUtc": "2020-05-21T15:37:35.952512Z",
+      "queryTimestamp": "2020-05-30T02:37:33.571591Z",
+      "fileCount": 1,
+      "fileSize": 493519
     },
     {
       "folderName": "Strange-1.14.4-1.0.0-beta.3.jar",
@@ -2712,9 +2897,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.035551Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:55.2601933Z",
-      "queryTimestamp": "2020-05-17T02:58:32.448233Z",
+      "queryTimestamp": "2020-05-30T02:37:33.572122Z",
       "fileCount": 1,
       "fileSize": 52417295
+    },
+    {
+      "folderName": "nopoles-1.14.4-3.1.6.jar",
+      "fingerprint": 3132075149,
+      "fileDateHash": 2750442334,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3132075149
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T15:36:58.223525Z",
+      "lastWriteTimeUtc": "2020-05-14T20:54:03.451415Z",
+      "queryTimestamp": "2020-05-30T02:37:33.572627Z",
+      "fileCount": 1,
+      "fileSize": 205506
     },
     {
       "folderName": "practicaltools-1.14.4-1.4.jar",
@@ -2727,9 +2927,24 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.732449Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:00.3851712Z",
-      "queryTimestamp": "2020-05-17T02:58:32.449269Z",
+      "queryTimestamp": "2020-05-30T02:37:33.573109Z",
       "fileCount": 1,
       "fileSize": 37613
+    },
+    {
+      "folderName": "Futurepack-1.14.4-28.0.163.jar",
+      "fingerprint": 3923513673,
+      "fileDateHash": 1848996491,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3923513673
+      ],
+      "status": 1,
+      "timestamp": "2020-05-25T21:58:15.124475Z",
+      "lastWriteTimeUtc": "2020-05-25T21:58:07.3103403Z",
+      "queryTimestamp": "2020-05-30T02:37:33.573657Z",
+      "fileCount": 1,
+      "fileSize": 28310702
     },
     {
       "folderName": "stonecatalysts-1.14.4-1.2.0.jar",
@@ -2742,7 +2957,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.673809Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:23.7316672Z",
-      "queryTimestamp": "2020-05-17T02:58:32.449761Z",
+      "queryTimestamp": "2020-05-30T02:37:33.574149Z",
       "fileCount": 1,
       "fileSize": 207813
     },
@@ -2757,7 +2972,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.613987Z",
       "lastWriteTimeUtc": "2020-05-14T20:54:17.8996791Z",
-      "queryTimestamp": "2020-05-17T02:58:32.450241Z",
+      "queryTimestamp": "2020-05-30T02:37:33.57467Z",
       "fileCount": 1,
       "fileSize": 637024
     },
@@ -2772,7 +2987,7 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:30.943295Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:51.0269838Z",
-      "queryTimestamp": "2020-05-17T02:58:32.450734Z",
+      "queryTimestamp": "2020-05-30T02:37:33.575151Z",
       "fileCount": 1,
       "fileSize": 548644
     },
@@ -2787,28 +3002,13 @@
       "status": 1,
       "timestamp": "2020-05-17T02:58:31.701Z",
       "lastWriteTimeUtc": "2020-05-14T20:53:49.6464523Z",
-      "queryTimestamp": "2020-05-17T02:58:32.451653Z",
+      "queryTimestamp": "2020-05-30T02:37:33.575562Z",
       "fileCount": 1,
       "fileSize": 12724
-    },
-    {
-      "folderName": "XaerosWorldMap_1.5.7_Forge_1.14.4.jar",
-      "fingerprint": 3133903876,
-      "fileDateHash": 4112988190,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3133903876
-      ],
-      "status": 1,
-      "timestamp": "2020-05-17T02:58:29.80291Z",
-      "lastWriteTimeUtc": "2020-05-14T20:54:09.0951536Z",
-      "queryTimestamp": "2020-05-17T02:58:32.452797Z",
-      "fileCount": 1,
-      "fileSize": 255566
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-05-18T02:57:43.317654Z",
+  "lastPreviousMatchUpdate": "2020-05-30T21:22:40.806316Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.14.4",
@@ -2897,7 +3097,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 240630,
@@ -2964,7 +3164,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 331983,
@@ -3037,7 +3237,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 328085,
@@ -3101,7 +3301,7 @@
       "dateInstalled": "2020-05-14T20:54:20.371727Z",
       "dateUpdated": "2020-05-17T02:58:44.396499Z",
       "dateLastUpdateAttempted": "2020-05-17T02:58:44.396499Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3110,7 +3310,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253449,
@@ -3185,7 +3385,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 345358,
@@ -3257,7 +3457,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 261251,
@@ -3325,7 +3525,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 301356,
@@ -3400,7 +3600,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 268495,
@@ -3472,7 +3672,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237307,
@@ -3544,7 +3744,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 287443,
@@ -3617,7 +3817,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 352622,
@@ -3686,7 +3886,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 69118,
@@ -3754,23 +3954,29 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237333,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2945085,
-        "displayName": "futurepack-1.14.4-28.0.126.jar",
-        "fileName": "futurepack-1.14.4-28.0.126.jar",
-        "fileDate": "2020-05-01T01:32:23.747Z",
-        "fileLength": 28173580,
+        "id": 2965497,
+        "displayName": "Futurepack-1.14.4-28.0.163 - fixed",
+        "fileName": "Futurepack-1.14.4-28.0.163.jar",
+        "fileDate": "2020-05-25T17:08:40.817Z",
+        "fileLength": 28310702,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2945/85/futurepack-1.14.4-28.0.126.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2965/497/Futurepack-1.14.4-28.0.163.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 275300,
+            "type": 2,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 267602,
@@ -3785,19 +3991,13 @@
           },
           {
             "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 239197,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 275300,
+            "addonId": 238222,
             "type": 2,
             "fileId": 0
           },
@@ -3812,27 +4012,27 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1942163344,
+            "fingerprint": 744407976,
             "type": 0
           },
           {
             "foldername": "automatic",
-            "fingerprint": 1471562599,
+            "fingerprint": 524876917,
             "type": 0
           },
           {
             "foldername": "futurepack",
-            "fingerprint": 224932464,
+            "fingerprint": 4276165328,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3801111999,
             "type": 0
           },
           {
             "foldername": "assets_",
             "fingerprint": 564488573,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 40531679,
             "type": 0
           },
           {
@@ -3846,17 +4046,17 @@
             "type": 0
           },
           {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1111368790,
-            "type": 0
-          },
-          {
             "foldername": "fp_logo.png",
             "fingerprint": 2097960313,
             "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1111368790,
+            "type": 0
           }
         ],
-        "packageFingerprint": 1127649901,
+        "packageFingerprint": 3923513673,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -3870,21 +4070,21 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "futurepack-1.14.4-28.0.126.jar"
+        "FileNameOnDisk": "Futurepack-1.14.4-28.0.163.jar"
       },
       "dateInstalled": "2020-05-14T20:54:26.595809Z",
-      "dateUpdated": "2020-05-14T20:54:26.614212Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:26.614212Z",
+      "dateUpdated": "2020-05-25T21:58:07.330865Z",
+      "dateLastUpdateAttempted": "2020-05-25T21:58:07.330865Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227873,
@@ -3981,7 +4181,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 342623,
@@ -4042,7 +4242,7 @@
       "dateInstalled": "2020-05-14T20:54:18.545742Z",
       "dateUpdated": "2020-05-17T23:14:38.811492Z",
       "dateLastUpdateAttempted": "2020-05-17T23:14:38.811492Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4051,7 +4251,70 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 354339,
+      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
+      "installedFile": {
+        "id": 2861288,
+        "displayName": "OpenLoader-1.14.4-1.0.4.jar",
+        "fileName": "OpenLoader-1.14.4-1.0.4.jar",
+        "fileDate": "2020-01-15T20:28:03.41Z",
+        "fileLength": 7658,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2861/288/OpenLoader-1.14.4-1.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 2861289,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2387405211,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3371244431,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 930601385,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3486406325,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OpenLoader-1.14.4-1.0.4.jar"
+      },
+      "dateInstalled": "2020-05-26T16:34:10.083325Z",
+      "dateUpdated": "2020-05-26T16:34:10.090299Z",
+      "dateLastUpdateAttempted": "2020-05-26T16:34:10.090299Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 375509,
@@ -4105,7 +4368,7 @@
       "dateInstalled": "2020-05-14T20:54:18.447446Z",
       "dateUpdated": "2020-05-17T23:14:37.0783Z",
       "dateLastUpdateAttempted": "2020-05-17T23:14:37.0783Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4114,7 +4377,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 303657,
@@ -4181,7 +4444,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 302544,
@@ -4235,7 +4498,7 @@
       "dateInstalled": "2020-05-14T20:54:18.033186Z",
       "dateUpdated": "2020-05-17T03:11:56.9886Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:56.9886Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4244,7 +4507,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 69162,
@@ -4328,7 +4591,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 342097,
@@ -4391,7 +4654,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 254652,
@@ -4459,84 +4722,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 340991,
-      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
-      "installedFile": {
-        "id": 2953116,
-        "displayName": "Druidcraft-1.14-0.4.0-dev0.6.jar",
-        "fileName": "Druidcraft-1.14-0.4.0-dev0.6.jar",
-        "fileDate": "2020-05-10T10:42:55.01Z",
-        "fileLength": 1098283,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2953/116/Druidcraft-1.14-0.4.0-dev0.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3399802061,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 258279736,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4260521262,
-            "type": 0
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 3049863049,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1809747414,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 759513019,
-        "gameVersion": [
-          "1.14.1",
-          "1.14.4",
-          "1.14.3",
-          "1.14",
-          "Forge",
-          "1.14.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-04-23T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Druidcraft-1.14-0.4.0-dev0.6.jar"
-      },
-      "dateInstalled": "2020-05-14T20:54:28.442884Z",
-      "dateUpdated": "2020-05-17T03:11:35.736494Z",
-      "dateLastUpdateAttempted": "2020-05-17T03:11:35.736494Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 295319,
@@ -4614,7 +4800,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 356036,
@@ -4686,7 +4872,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 245755,
@@ -4758,7 +4944,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 231275,
@@ -4826,100 +5012,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 276951,
-      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
-      "installedFile": {
-        "id": 2880691,
-        "displayName": "comforts-FORGE-1.14.4-2.0-beta6.jar",
-        "fileName": "comforts-FORGE-1.14.4-2.0-beta6.jar",
-        "fileDate": "2020-02-13T03:11:00.053Z",
-        "fileLength": 233888,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2880/691/comforts-FORGE-1.14.4-2.0-beta6.jar",
-        "isAlternate": false,
-        "alternateFileId": 2880692,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1655892334,
-            "type": 0
-          },
-          {
-            "foldername": "top",
-            "fingerprint": 2528299811,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3299599183,
-            "type": 0
-          },
-          {
-            "foldername": "CHANGELOG.md",
-            "fingerprint": 3385473739,
-            "type": 0
-          },
-          {
-            "foldername": "comforts_icon.png",
-            "fingerprint": 1045601088,
-            "type": 0
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 3085264512,
-            "type": 0
-          },
-          {
-            "foldername": "licenses",
-            "fingerprint": 3843739577,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 324051243,
-            "type": 0
-          },
-          {
-            "foldername": "README.md",
-            "fingerprint": 1410585725,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1602813945,
-        "gameVersion": [
-          "1.14.4",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "comforts-FORGE-1.14.4-2.0-beta6.jar"
-      },
-      "dateInstalled": "2020-05-14T20:54:15.992342Z",
-      "dateUpdated": "2020-05-14T20:54:15.993771Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:15.993771Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 283644,
@@ -4986,7 +5079,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 272515,
@@ -5053,7 +5146,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 260262,
@@ -5131,7 +5224,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227409,
@@ -5213,7 +5306,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228525,
@@ -5286,7 +5379,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 324888,
@@ -5364,74 +5457,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 241895,
-      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
-      "installedFile": {
-        "id": 2850745,
-        "displayName": "KleeSlabs_1.14.4-7.4.8.jar",
-        "fileName": "KleeSlabs_1.14.4-7.4.8.jar",
-        "fileDate": "2019-12-28T08:54:39.51Z",
-        "fileLength": 38258,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2850/745/KleeSlabs_1.14.4-7.4.8.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4155752932,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 161767416,
-            "type": 0
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 380004194,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1944611527,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1374458416,
-        "gameVersion": [
-          "1.14.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "KleeSlabs_1.14.4-7.4.8.jar.disabled"
-      },
-      "dateInstalled": "2020-05-14T20:54:14.483707Z",
-      "dateUpdated": "2020-05-14T20:54:14.484657Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:14.484657Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317094,
@@ -5509,7 +5535,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 295373,
@@ -5582,7 +5608,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298744,
@@ -5646,6 +5672,81 @@
       "dateUpdated": "2020-05-14T20:54:13.590078Z",
       "dateLastUpdateAttempted": "2020-05-14T20:54:13.590078Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 79287,
+      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
+      "installedFile": {
+        "id": 2964473,
+        "displayName": "WailaHarvestability-mc1.14.4-1.1.12.jar",
+        "fileName": "WailaHarvestability-mc1.14.4-1.1.12.jar",
+        "fileDate": "2020-05-24T06:40:36.017Z",
+        "fileLength": 28373,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2964/473/WailaHarvestability-mc1.14.4-1.1.12.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3337449521,
+            "type": 0
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 2604923909,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3975610186,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4268598061,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 492877301,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "WailaHarvestability-mc1.14.4-1.1.12.jar"
+      },
+      "dateInstalled": "2020-05-30T22:01:56.622519Z",
+      "dateUpdated": "2020-05-30T22:01:56.626539Z",
+      "dateLastUpdateAttempted": "2020-05-30T22:01:56.626539Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5737,7 +5838,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314904,
@@ -5809,7 +5910,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314911,
@@ -5882,7 +5983,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 349447,
@@ -5961,7 +6062,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 365045,
@@ -6040,7 +6141,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 274259,
@@ -6120,7 +6221,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 361718,
@@ -6185,10 +6286,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "incubation-1.0.1-1.14.4.jar"
       },
-      "dateInstalled": "2020-05-14T20:54:12.530732Z",
-      "dateUpdated": "2020-05-14T20:54:12.532264Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:12.532264Z",
-      "status": 5,
+      "dateInstalled": "2020-05-30T02:37:52.242307Z",
+      "dateUpdated": "2020-05-30T02:37:52.251058Z",
+      "dateLastUpdateAttempted": "2020-05-30T02:37:52.251058Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6298,7 +6399,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 318833,
@@ -6378,7 +6479,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 309927,
@@ -6471,7 +6572,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 277064,
@@ -6539,7 +6640,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 255902,
@@ -6613,22 +6714,22 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 239197,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2952977,
-        "displayName": "CraftTweaker-1.14.4-5.0.1.188.jar",
-        "fileName": "CraftTweaker-1.14.4-5.0.1.188.jar",
-        "fileDate": "2020-05-10T05:40:27.447Z",
-        "fileLength": 1842330,
+        "id": 2967039,
+        "displayName": "CraftTweaker-1.14.4-5.0.1.190.jar",
+        "fileName": "CraftTweaker-1.14.4-5.0.1.190.jar",
+        "fileDate": "2020-05-27T20:18:43.523Z",
+        "fileLength": 1846403,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2952/977/CraftTweaker-1.14.4-5.0.1.188.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2967/39/CraftTweaker-1.14.4-5.0.1.190.jar",
         "isAlternate": false,
-        "alternateFileId": 2952978,
+        "alternateFileId": 2967040,
         "dependencies": [
           {
             "id": 0,
@@ -6641,12 +6742,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 924962356,
+            "fingerprint": 599318817,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 48277203,
+            "fingerprint": 3647819794,
             "type": 0
           },
           {
@@ -6666,7 +6767,7 @@
           },
           {
             "foldername": "org",
-            "fingerprint": 1610328803,
+            "fingerprint": 2143648399,
             "type": 0
           },
           {
@@ -6695,7 +6796,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 4075733084,
+        "packageFingerprint": 562271294,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -6709,12 +6810,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CraftTweaker-1.14.4-5.0.1.188.jar"
+        "FileNameOnDisk": "CraftTweaker-1.14.4-5.0.1.190.jar"
       },
       "dateInstalled": "2020-05-14T20:54:20.581753Z",
-      "dateUpdated": "2020-05-17T02:58:42.687999Z",
-      "dateLastUpdateAttempted": "2020-05-17T02:58:42.687999Z",
-      "status": 4,
+      "dateUpdated": "2020-05-28T17:59:44.938002Z",
+      "dateLastUpdateAttempted": "2020-05-28T17:59:44.938002Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6723,7 +6824,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 310494,
@@ -6796,7 +6897,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 233071,
@@ -6863,7 +6964,70 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 353942,
+      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
+      "installedFile": {
+        "id": 2960591,
+        "displayName": "snowundertrees-1.14.4-v1.1.1.jar",
+        "fileName": "snowundertrees-1.14.4-v1.1.1.jar",
+        "fileDate": "2020-05-19T10:45:18.737Z",
+        "fileLength": 15139,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2960/591/snowundertrees-1.14.4-v1.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 897902144,
+            "type": 0
+          },
+          {
+            "foldername": "bl4ckscor3",
+            "fingerprint": 1725854816,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 524945892,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3572947859,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "snowundertrees-1.14.4-v1.1.1.jar"
+      },
+      "dateInstalled": "2020-05-18T16:45:29.309996Z",
+      "dateUpdated": "2020-05-20T04:54:15.539816Z",
+      "dateLastUpdateAttempted": "2020-05-20T04:54:15.539816Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 352835,
@@ -6948,7 +7112,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 340583,
@@ -7012,7 +7176,7 @@
       "dateInstalled": "2020-05-14T20:54:27.035028Z",
       "dateUpdated": "2020-05-17T03:12:01.538924Z",
       "dateLastUpdateAttempted": "2020-05-17T03:12:01.538924Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7021,7 +7185,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 316632,
@@ -7102,7 +7266,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 273744,
@@ -7189,7 +7353,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 379578,
@@ -7252,20 +7416,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 244786,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2849892,
-        "displayName": "platforms-1.14-1.5.1.jar",
-        "fileName": "platforms-1.14-1.5.1.jar",
-        "fileDate": "2019-12-26T19:48:14.947Z",
-        "fileLength": 487297,
+        "id": 2961598,
+        "displayName": "platforms-1.14-1.5.2.jar",
+        "fileName": "platforms-1.14-1.5.2.jar",
+        "fileDate": "2020-05-20T16:11:48.627Z",
+        "fileLength": 493519,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2849/892/platforms-1.14-1.5.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2961/598/platforms-1.14-1.5.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -7280,17 +7444,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 918798614,
+            "fingerprint": 3544493039,
             "type": 0
           },
           {
             "foldername": "shetiphian",
-            "fingerprint": 3018555835,
+            "fingerprint": 1711996775,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3314192072,
+            "fingerprint": 1529658759,
             "type": 0
           },
           {
@@ -7305,14 +7469,13 @@
           },
           {
             "foldername": "platforms.png",
-            "fingerprint": 959104858,
+            "fingerprint": 1525774992,
             "type": 0
           }
         ],
-        "packageFingerprint": 442030692,
+        "packageFingerprint": 1950976194,
         "gameVersion": [
-          "1.14.4",
-          "1.14.3"
+          "1.14.4"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -7320,14 +7483,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2019-06-24T00:00:00Z",
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "platforms-1.14-1.5.1.jar"
+        "FileNameOnDisk": "platforms-1.14-1.5.2.jar"
       },
       "dateInstalled": "2020-05-14T20:54:10.805708Z",
-      "dateUpdated": "2020-05-14T20:54:10.807335Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:10.807335Z",
+      "dateUpdated": "2020-05-21T15:37:35.955804Z",
+      "dateLastUpdateAttempted": "2020-05-21T15:37:35.955804Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -7337,7 +7500,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 318872,
@@ -7439,7 +7602,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 243121,
@@ -7539,7 +7702,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250363,
@@ -7607,7 +7770,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 74924,
@@ -7680,20 +7843,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317780,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2924386,
-        "displayName": "v1.5.7 for Minecraft 1.14.4",
-        "fileName": "XaerosWorldMap_1.5.7_Forge_1.14.4.jar",
-        "fileDate": "2020-04-08T15:31:59.357Z",
-        "fileLength": 255566,
+        "id": 2966730,
+        "displayName": "v1.6.1 for Minecraft 1.14.4",
+        "fileName": "XaerosWorldMap_1.6.1_Forge_1.14.4.jar",
+        "fileDate": "2020-05-27T12:49:18.243Z",
+        "fileLength": 283420,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2924/386/XaerosWorldMap_1.5.7_Forge_1.14.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2966/730/XaerosWorldMap_1.6.1_Forge_1.14.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7701,17 +7864,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 854086006,
+            "fingerprint": 1525492184,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 4157683646,
+            "fingerprint": 3635187775,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2920616082,
+            "fingerprint": 4027289622,
             "type": 0
           },
           {
@@ -7720,7 +7883,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3133903876,
+        "packageFingerprint": 2985501116,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -7734,11 +7897,11 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "XaerosWorldMap_1.5.7_Forge_1.14.4.jar"
+        "FileNameOnDisk": "XaerosWorldMap_1.6.1_Forge_1.14.4.jar"
       },
       "dateInstalled": "2020-05-14T20:54:09.095459Z",
-      "dateUpdated": "2020-05-14T20:54:09.096432Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:09.096432Z",
+      "dateUpdated": "2020-05-28T17:59:52.862622Z",
+      "dateLastUpdateAttempted": "2020-05-28T17:59:52.862622Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -7748,20 +7911,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 243707,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2953918,
-        "displayName": "Corail Tombstone 4.3.5 for 1.14.4",
-        "fileName": "tombstone-4.3.5-1.14.4.jar",
-        "fileDate": "2020-05-11T09:07:03.173Z",
-        "fileLength": 1127391,
+        "id": 2962399,
+        "displayName": "Corail Tombstone 4.3.6 for 1.14.4",
+        "fileName": "tombstone-4.3.6-1.14.4.jar",
+        "fileDate": "2020-05-21T17:40:21.7Z",
+        "fileLength": 1147332,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2953/918/tombstone-4.3.5-1.14.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2962/399/tombstone-4.3.6-1.14.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7769,17 +7932,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2557856331,
+            "fingerprint": 1781546857,
             "type": 0
           },
           {
             "foldername": "ovh",
-            "fingerprint": 3600798951,
+            "fingerprint": 145622651,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2691718722,
+            "fingerprint": 4219085643,
             "type": 0
           },
           {
@@ -7793,7 +7956,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 657415571,
+        "packageFingerprint": 1933594163,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -7807,12 +7970,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "tombstone-4.3.5-1.14.4.jar"
+        "FileNameOnDisk": "tombstone-4.3.6-1.14.4.jar"
       },
       "dateInstalled": "2020-05-14T20:54:08.800789Z",
-      "dateUpdated": "2020-05-17T03:11:31.48868Z",
-      "dateLastUpdateAttempted": "2020-05-17T03:11:31.48868Z",
-      "status": 4,
+      "dateUpdated": "2020-05-23T04:41:18.934141Z",
+      "dateLastUpdateAttempted": "2020-05-23T04:41:18.934141Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7821,7 +7984,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317792,
@@ -7904,7 +8067,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 333389,
@@ -7973,7 +8136,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250398,
@@ -8041,7 +8204,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 244830,
@@ -8473,7 +8636,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 271009,
@@ -8540,7 +8703,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 244844,
@@ -8671,7 +8834,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250419,
@@ -8739,7 +8902,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298323,
@@ -8822,7 +8985,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 231484,
@@ -8912,9 +9075,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "CookingForBlockheads_1.14.4-7.4.4.jar"
       },
-      "dateInstalled": "2020-05-14T20:54:06.138232Z",
-      "dateUpdated": "2020-05-14T20:54:06.139296Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:06.139296Z",
+      "dateInstalled": "2020-05-25T21:57:04.977757Z",
+      "dateUpdated": "2020-05-25T21:57:04.982242Z",
+      "dateLastUpdateAttempted": "2020-05-25T21:57:04.982242Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -8924,7 +9087,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 264353,
@@ -8992,7 +9155,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 280510,
@@ -9054,7 +9217,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 362393,
@@ -9126,7 +9289,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253230,
@@ -9196,7 +9359,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 288885,
@@ -9265,7 +9428,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 248787,
@@ -9333,7 +9496,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 230976,
@@ -9395,7 +9558,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 309516,
@@ -9465,7 +9628,7 @@
       "dateInstalled": "2020-05-14T20:54:23.96831Z",
       "dateUpdated": "2020-05-17T03:11:27.593636Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:27.593636Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9474,7 +9637,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 360203,
@@ -9546,7 +9709,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238222,
@@ -9613,7 +9776,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 347396,
@@ -9683,7 +9846,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 291142,
@@ -9767,70 +9930,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 349071,
-      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
-      "installedFile": {
-        "id": 2814941,
-        "displayName": "invtotem_1.14-1.0.jar",
-        "fileName": "invtotem_1.14-1.0.jar",
-        "fileDate": "2019-10-23T12:10:00.823Z",
-        "fileLength": 5050,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2814/941/invtotem_1.14-1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1183403147,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 135817161,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2529833278,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2279644462,
-        "gameVersion": [
-          "1.14.4",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "invtotem_1.14-1.0.jar"
-      },
-      "dateInstalled": "2020-05-14T20:54:03.897202Z",
-      "dateUpdated": "2020-05-14T20:54:03.897965Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:03.897965Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 309538,
@@ -9898,7 +9998,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 267769,
@@ -9969,7 +10069,7 @@
       "dateInstalled": "2020-05-14T20:54:24.490189Z",
       "dateUpdated": "2020-05-17T23:15:08.103434Z",
       "dateLastUpdateAttempted": "2020-05-17T23:15:08.103434Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9978,7 +10078,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 308989,
@@ -10081,7 +10181,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 319015,
@@ -10152,7 +10252,7 @@
       "dateInstalled": "2020-05-14T20:54:00.914359Z",
       "dateUpdated": "2020-05-17T03:11:53.210909Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:53.210909Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10161,7 +10261,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298965,
@@ -10220,7 +10320,7 @@
       "dateInstalled": "2020-05-14T20:54:00.769491Z",
       "dateUpdated": "2020-05-17T03:11:42.589362Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:42.589362Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10229,7 +10329,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 232131,
@@ -10291,7 +10391,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306770,
@@ -10354,12 +10454,12 @@
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 245506,
@@ -10438,7 +10538,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 325158,
@@ -10510,7 +10610,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 60028,
@@ -10583,7 +10683,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314581,
@@ -10655,20 +10755,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 71738,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2887757,
-        "displayName": "shetiphiancore-1.14-3.6.1.jar",
-        "fileName": "shetiphiancore-1.14-3.6.1.jar",
-        "fileDate": "2020-02-24T02:10:48.48Z",
-        "fileLength": 419834,
+        "id": 2961597,
+        "displayName": "shetiphiancore-1.14-3.6.2.jar",
+        "fileName": "shetiphiancore-1.14-3.6.2.jar",
+        "fileDate": "2020-05-20T16:10:07.513Z",
+        "fileLength": 424658,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2887/757/shetiphiancore-1.14-3.6.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2961/597/shetiphiancore-1.14-3.6.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -10676,17 +10776,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 319978351,
+            "fingerprint": 3362810906,
             "type": 0
           },
           {
             "foldername": "shetiphian",
-            "fingerprint": 1159858079,
+            "fingerprint": 3686176376,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1963035269,
+            "fingerprint": 1246801616,
             "type": 0
           },
           {
@@ -10710,7 +10810,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2627910063,
+        "packageFingerprint": 3936073960,
         "gameVersion": [
           "1.14.4"
         ],
@@ -10723,11 +10823,11 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "shetiphiancore-1.14-3.6.1.jar"
+        "FileNameOnDisk": "shetiphiancore-1.14-3.6.2.jar"
       },
       "dateInstalled": "2020-05-14T20:54:00.202045Z",
-      "dateUpdated": "2020-05-14T20:54:00.203054Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:00.203054Z",
+      "dateUpdated": "2020-05-21T15:37:11.51943Z",
+      "dateLastUpdateAttempted": "2020-05-21T15:37:11.51943Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -10737,7 +10837,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 354143,
@@ -10800,7 +10900,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 361385,
@@ -10878,7 +10978,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 280620,
@@ -10951,7 +11051,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 363065,
@@ -11041,7 +11141,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 372534,
@@ -11119,7 +11219,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 290659,
@@ -11181,7 +11281,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 324087,
@@ -11272,7 +11372,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 347488,
@@ -11350,7 +11450,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 362528,
@@ -11423,7 +11523,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 353617,
@@ -11498,7 +11598,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 271740,
@@ -11572,7 +11672,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 257820,
@@ -11659,7 +11759,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 60089,
@@ -11727,7 +11827,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 326895,
@@ -11804,7 +11904,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 284007,
@@ -11877,9 +11977,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "Inspirations-1.14.4-1.0.2.jar"
       },
-      "dateInstalled": "2020-05-14T20:53:50.106068Z",
-      "dateUpdated": "2020-05-14T20:53:50.107254Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:53:50.107254Z",
+      "dateInstalled": "2020-05-25T21:57:12.903154Z",
+      "dateUpdated": "2020-05-25T21:57:12.904614Z",
+      "dateLastUpdateAttempted": "2020-05-25T21:57:12.904614Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -11889,7 +11989,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223852,
@@ -11962,7 +12062,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 256717,
@@ -12025,79 +12125,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 313533,
-      "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
-      "installedFile": {
-        "id": 2879730,
-        "displayName": "colouredchat-1.14.4-1.4.6.jar",
-        "fileName": "colouredchat-1.14.4-1.4.6.jar",
-        "fileDate": "2020-02-11T18:37:15.253Z",
-        "fileLength": 120340,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2879/730/colouredchat-1.14.4-1.4.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1297780668,
-            "type": 0
-          },
-          {
-            "foldername": "network",
-            "fingerprint": 3927643883,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1521909771,
-            "type": 0
-          },
-          {
-            "foldername": "colouredchat.png",
-            "fingerprint": 751675344,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3073706737,
-        "gameVersion": [
-          "1.14.1",
-          "1.14.4",
-          "1.14.3",
-          "1.14",
-          "Forge",
-          "1.14.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-04-23T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "colouredchat-1.14.4-1.4.6.jar"
-      },
-      "dateInstalled": "2020-05-14T20:53:49.784395Z",
-      "dateUpdated": "2020-05-14T20:53:49.786028Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:53:49.786028Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 313536,
@@ -12173,7 +12201,7 @@
       "dateInstalled": "2020-05-14T20:53:49.503365Z",
       "dateUpdated": "2020-05-17T03:11:28.349258Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:28.349258Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12182,7 +12210,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 357540,
@@ -12255,7 +12283,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 318551,
@@ -12327,7 +12355,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 316881,
@@ -12433,7 +12461,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 331921,
@@ -12495,7 +12523,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 345298,
@@ -12558,20 +12586,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 263420,
       "gameInstanceID": "ad100359-b2a8-4a91-a7b2-da17f293e529",
       "installedFile": {
-        "id": 2943389,
-        "displayName": "v20.9.0 for Minecraft 1.14.4",
-        "fileName": "Xaeros_Minimap_20.9.0_Forge_1.14.4.jar",
-        "fileDate": "2020-04-29T09:31:26.507Z",
-        "fileLength": 515592,
+        "id": 2966725,
+        "displayName": "v20.12.1 for Minecraft 1.14.4",
+        "fileName": "Xaeros_Minimap_20.12.1_Forge_1.14.4.jar",
+        "fileDate": "2020-05-27T12:46:11.503Z",
+        "fileLength": 522593,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2943/389/Xaeros_Minimap_20.9.0_Forge_1.14.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2966/725/Xaeros_Minimap_20.12.1_Forge_1.14.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12579,17 +12607,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1993284179,
+            "fingerprint": 1892803895,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 901797998,
+            "fingerprint": 3808955575,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3660673965,
+            "fingerprint": 580838434,
             "type": 0
           },
           {
@@ -12598,7 +12626,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3346649523,
+        "packageFingerprint": 2615652536,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -12612,11 +12640,11 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Xaeros_Minimap_20.9.0_Forge_1.14.4.jar"
+        "FileNameOnDisk": "Xaeros_Minimap_20.12.1_Forge_1.14.4.jar"
       },
-      "dateInstalled": "2020-05-14T20:54:21.332703Z",
-      "dateUpdated": "2020-05-14T20:54:21.334272Z",
-      "dateLastUpdateAttempted": "2020-05-14T20:54:21.334272Z",
+      "dateInstalled": "2020-05-21T15:37:00.632804Z",
+      "dateUpdated": "2020-05-28T17:59:51.630585Z",
+      "dateLastUpdateAttempted": "2020-05-28T17:59:51.630585Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -12626,7 +12654,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 296843,
@@ -12706,7 +12734,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 241160,
@@ -12773,7 +12801,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 323043,
@@ -12836,7 +12864,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 282940,
@@ -12923,16 +12951,16 @@
       "dateInstalled": "2020-05-14T20:53:47.302941Z",
       "dateUpdated": "2020-05-17T03:11:49.013343Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:49.013343Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 368718,
@@ -12986,7 +13014,7 @@
       "dateInstalled": "2020-05-14T20:53:47.072128Z",
       "dateUpdated": "2020-05-17T03:11:39.26223Z",
       "dateLastUpdateAttempted": "2020-05-17T03:11:39.26223Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12995,7 +13023,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 222789,
@@ -13057,7 +13085,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 303557,
@@ -13135,7 +13163,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     }
   ],
   "isMigrated": false,

@@ -92,6 +92,8 @@ key_tombstone.message.knowledge_of_death:key.keyboard.unknown
 key_key.switchbow.switchup:key.keyboard.unknown
 key_key.switchbow.switchdown:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.left.shift
+key_key.caelus.toggle.desc:key.keyboard.unknown
+key_key.caelus.trigger.desc:key.keyboard.unknown
 key_key.backpack:key.keyboard.x
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
@@ -125,7 +127,16 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_key.inventoryhud.toggle:key.keyboard.i
+key_quark.keybind.lock_rotation:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.keybind.back:key.mouse.4
+key_key.waila.config:key.keyboard.keypad.0
+key_key.waila.show_overlay:key.keyboard.keypad.1
+key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
@@ -134,7 +145,6 @@ key_key.caelus.trigger.desc:key.keyboard.unknown
 key_key.endergetic.boof_vest:key.keyboard.space
 key_key.endergetic.booflo_inflate:key.keyboard.space
 key_key.endergetic.booflo_slam:key.keyboard.unknown
-key_walljump.key.walljump:key.keyboard.left.shift
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
@@ -182,7 +192,7 @@ key_key.fp.modul_magnet:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.unknown
 key_key.jei.toggleCheatMode:key.keyboard.backslash
-key_key.jei.toggleEditMode:key.keyboard.backslash:ALT
+key_key.jei.toggleEditMode:key.keyboard.unknown
 key_key.jei.showRecipe:key.keyboard.r
 key_key.jei.showUses:key.keyboard.u
 key_key.jei.recipeBack:key.keyboard.backspace
@@ -190,7 +200,7 @@ key_key.jei.previousPage:key.keyboard.page.up
 key_key.jei.nextPage:key.keyboard.page.down
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
