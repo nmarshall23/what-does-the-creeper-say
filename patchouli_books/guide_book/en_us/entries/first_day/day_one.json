@@ -1,0 +1,25 @@
+{
+  "name": "Starting Out",
+  "icon": "minecraft:wooden_axe",
+  "category": "first_day",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Make yourself a $(item)Supply Camp$(). This will give you a bed, furnace and storage. All for the cost of 11 Logs.$(br2)You may only place one Supply Camp!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecolonies:supplycampdeployer",
+      "text": "A $(item)Supply Camp$() is a large structure you can place that will build a starting base. It requires flat clear area 16 meters by 17 meters. You must clear out any flowers or grass."
+    },
+    {
+      "type": "text",
+      "text": "Now that you have a starting Camp, you might have realized that you can jump over the fence. "
+    },
+    {
+      "type": "text",
+      "text": "A Supply Camp comes stocked with goods to help you build a $(thing)Colony$(). "
+    }
+  ]
+}

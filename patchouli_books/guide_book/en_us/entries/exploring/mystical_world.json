@@ -1,0 +1,17 @@
+{
+  "name": "Mystical World Encyclopedia",
+  "icon": "mysticalworld:encyclopedia",
+
+  "category": "exploring",
+  "pages": [
+    {
+      "type": "text",
+      "text":  "The $(item)Mystical World Mod$() includes a good number of Creatues. Also contains information on Armor sets, Tools and Weapons."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:encyclopedia"
+    }
+    
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hoe Harvesting",
+  "icon": "minecraft:wooden_hoe",
+  "category": "first_day",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Breaking grass or crops with a hoe will break a 3x3 of them. A Diamond Hoe will break a 5x5 instead. If you put Fortune on the hoe, it'll also apply that effect to everything it breaks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:wooden_hoe"
+    }
+  ]
+}

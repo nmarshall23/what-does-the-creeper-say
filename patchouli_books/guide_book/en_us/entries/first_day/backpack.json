@@ -1,0 +1,16 @@
+{
+  "name": "Back Pack",
+  "icon": "backpacked:backpack",
+
+  "category": "first_day",
+  "pages": [
+    {
+      "type": "text",
+      "text":  "Who doesn't need more storage?$(br2)Once you have equipped it in your backpack slot, open it by pressing $(k:backpack).$(br2)See Shulker Box entry for larger storage options."
+    },
+    {
+      "type": "crafting",
+      "recipe": "backpacked:backpack"
+    }
+  ]
+}

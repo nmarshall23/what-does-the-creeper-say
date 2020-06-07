@@ -1,0 +1,15 @@
+{
+  "name": "Bedroll",
+  "icon": "upgrade_aquatic:bedroll_leather",
+  "category": "first_day",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sleep without setting a spawn point.$(br2)Can be dyed for more style points.$(br2)  $(italics)Style points are imaginary$()"
+    },
+    {
+      "type": "crafting",
+      "recipe": "upgrade_aquatic:bedroll"
+    }
+  ]
+}
