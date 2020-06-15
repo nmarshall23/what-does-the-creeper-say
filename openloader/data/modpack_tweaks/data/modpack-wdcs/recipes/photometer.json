@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "inspirations:pulse_loaded",
+      "pulse": "InspirationsTools"
+    },
+    {
+      "type": "inspirations:config",
+      "prop": "photometer"
+    }
+  ],
+  "result": {
+    "item": "inspirations:photometer"
+  },
+  "pattern": [
+    " B ",
+    "NRN"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": { "item": "minecraft:glass_bottle" },
+    "R": { "tag": "forge:dusts/redstone" },
+    "N": { "tag": "forge:nuggets/tin" }
+  }
+}

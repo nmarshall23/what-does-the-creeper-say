@@ -1,0 +1,15 @@
+{
+  "name": "Photometer",
+  "icon": "inspirations:photometer",
+  "category": "gadgets",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The photometer is a tool to show light levels. While holding it, it shows the light level of the block you are looking at."
+    },
+    {
+      "type": "crafting",
+      "recipe": "inspirations:tools/photometer"
+    }
+  ]
+}

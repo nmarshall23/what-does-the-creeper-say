@@ -6,6 +6,7 @@ saves/
 mods/
 logs/
 temp/
+tmp/
 ct_dumps/
 natives/
 screenshots/
@@ -50,4 +51,5 @@ config/druidcraft-client.toml
 config/caelus-client.toml
 config/caelus-client.toml
 config/valhelsia_structures-client.toml
+local/ftbutilities/backups.json
 local/ftbutilities/backups.json

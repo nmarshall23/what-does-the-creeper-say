@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "cookingforblockheads:crafting_book"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "CBC",
+    "GGG"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "B": {
+      "item": "cookingforblockheads:recipe_book"
+    }
+  }
+}
